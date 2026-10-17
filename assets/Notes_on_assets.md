@@ -1,0 +1,1 @@
+I need to answer why i visited those pages and what the conclusion is from the robots.txt and ToS
