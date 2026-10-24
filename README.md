@@ -1,3 +1,4 @@
+You can use this as reference but please dont copy the same code and say its urs T-T
 # DCV-Project
 ### Chosen Project:
 Assets of Lok Sabha candidates across three elections.
