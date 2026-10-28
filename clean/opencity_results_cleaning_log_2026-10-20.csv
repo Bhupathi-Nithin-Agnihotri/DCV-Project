@@ -1,0 +1,37 @@
+year,step,count_before,count_after,rows_affected,note
+2014,state names: underscore to space,4010,0,4010,rows with an underscore in State
+2019,state names: underscore to space,3447,0,3447,rows with an underscore in State
+2014,keep four states,8843,3868,4975,rows
+2019,keep four states,8613,3545,5068,rows
+2024,keep four states,8902,3626,5276,rows
+2014,drop by-election rows (Poll_No > 0),3868,3844,24,rows; fixes 4 seat-years whose vote shares added up to 200
+2019,drop by-election rows (Poll_No > 0),3545,3528,17,rows; fixes 4 seat-years whose vote shares added up to 200
+all,one name per seat,621,207,414,"distinct (State, name) pairs over three years; 207 seats expected"
+2024,Total Votes: text to number,3626,0,3626,cells stored as text
+2024,Vote Share: text to number,3626,0,3626,cells stored as text
+2014,candidate names: not upper case,208,0,208,names with this problem
+2014,candidate names: has dot,861,0,861,names with this problem
+2014,candidate names: has comma,186,0,186,names with this problem
+2014,candidate names: double space,76,0,76,names with this problem
+2014,candidate names: has title,159,0,159,names with this problem
+2019,candidate names: not upper case,1632,0,1632,names with this problem
+2019,candidate names: has dot,750,0,750,names with this problem
+2019,candidate names: has comma,160,0,160,names with this problem
+2019,candidate names: double space,0,0,0,names with this problem
+2019,candidate names: has title,168,0,168,names with this problem
+2024,candidate names: not upper case,17,0,17,names with this problem
+2024,candidate names: has dot,448,0,448,names with this problem
+2024,candidate names: has comma,73,0,73,names with this problem
+2024,candidate names: double space,50,0,50,names with this problem
+2024,candidate names: has title,165,0,165,names with this problem
+2024,party names: double spaces,88,0,88,names with double spaces
+2014,position recomputed without NOTA,2446,0,2446,real candidates whose published position was wrong
+2019,position recomputed without NOTA,2456,0,2456,real candidates whose published position was wrong
+2024,position recomputed without NOTA,0,0,0,real candidates whose published position was wrong
+2024,constituency type imputed from 2019,3626,0,3626,missing cells
+2014,exact duplicate rows,0,0,0,rows
+2019,exact duplicate rows,0,0,0,rows
+2024,exact duplicate rows,0,0,0,rows
+2024,incumbent derived from 2019 winners,0,0,0,missing cells (all 2024 rows had no value)
+all,"outliers flagged (candidate votes, MAD on log10 within role)",141,0,141,"rows flagged; all diagnosed as real values, none changed"
+all,"outliers flagged (seat size or margin, IQR)",24,0,24,"seat-years flagged; all diagnosed as real values, none changed"
