@@ -1,0 +1,24 @@
+column,dtype,unit,source,allowed_range,description
+State,str,name,OpenCity (TCPD / ECI),"one of Bihar, Maharashtra, Uttar Pradesh, Tamil Nadu",State of the constituency
+Constituency_No,int,number,OpenCity (TCPD / ECI),1 to 80,Parliamentary constituency number within the state
+Constituency_Name,str,name,OpenCity (TCPD),"207 distinct (State, name) pairs","Constituency name, upper case, one spelling per seat"
+Constituency_Type,str,category,OpenCity (TCPD); 2024 copied from 2019,"GEN, SC, ST",Reserved status of the seat
+Year,int,year,OpenCity,"2014, 2019, 2024",Election year (general election only)
+Person_ID,int,id,derived (name matching),>= 0,Same value for the same person across years (matching rule in Step 9)
+Candidate,str,name,OpenCity (TCPD / ECI),non-empty,"Candidate name, upper case, no dots or titles"
+Candidate_Key,str,name,derived,non-empty,"Words of the name in alphabetical order, used for matching"
+Namesake_In_Seat,bool,flag,derived,True / False,Another candidate in the same seat and year has the same Candidate_Key
+Party,str,code,OpenCity; 2024 mapped by hand,"short code, OTHER for small 2024 parties",Party code
+Party_Full,str,name,OpenCity,non-empty,"Party name as published (code in 2014 and 2019, full name in 2024)"
+Party_Group,str,category,derived,"Main party, Independent, Other party","Main parties: BJP, INC, SP, BSP, RJD, JD(U), DMK, ADMK, SHS, NCP"
+Sex,str,category,OpenCity (TCPD); missing for 2024,"M, F, O, missing",Sex of candidate
+Incumbent,boolean,flag,OpenCity (TCPD); 2024 derived,True / False,Candidate was the sitting MP
+Incumbent_Source,str,category,derived,"published, derived",Where the Incumbent value comes from
+Position,int,rank,derived from Votes,1 to Seat_Candidates,Finishing place among real candidates (NOTA not ranked)
+Winner,bool,flag,derived,True / False,Position equals 1
+Votes,int,votes,OpenCity (TCPD / ECI),"100 to 1,200,000",Votes received (EVM + postal)
+Vote_Share_Percentage,float,percent,OpenCity (TCPD / ECI),0 to 100,Share of all valid votes in the seat (NOTA included in the total)
+Margin,int,votes,derived,>= 1,"Votes of the winner minus votes of the runner-up, same for every row of a seat"
+Seat_Valid_Votes,int,votes,derived,> 0,"Sum of votes of all rows in the seat, NOTA included"
+Seat_Candidates,int,count,derived,2 to 60,Number of real candidates in the seat
+Votes_Outlier,str,category,derived (modified z-score on log10 votes within year and role),"none, low, high","Unusual vote count for the role, checked and kept"
