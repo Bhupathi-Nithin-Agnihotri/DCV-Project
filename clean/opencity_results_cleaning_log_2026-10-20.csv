@@ -6,7 +6,7 @@ year,step,count_before,count_after,rows_affected,note
 2024,keep four states,8902,3626,5276,rows
 2014,drop by-election rows (Poll_No > 0),3868,3844,24,rows; fixes 4 seat-years whose vote shares added up to 200
 2019,drop by-election rows (Poll_No > 0),3545,3528,17,rows; fixes 4 seat-years whose vote shares added up to 200
-all,one name per seat,621,207,414,"distinct (State, name) pairs over three years; 207 seats expected"
+all,one name per seat,216,207,9,"distinct (State, name) pairs over three years; 207 seats expected"
 2024,Total Votes: text to number,3626,0,3626,cells stored as text
 2024,Vote Share: text to number,3626,0,3626,cells stored as text
 2014,candidate names: not upper case,208,0,208,names with this problem
