@@ -1,0 +1,321 @@
+MN_Row,year,State,const,Constituency_No,candidate,party,Party_Canonical,is_winner,is_byelection,bye_election_date,Assets_Rs,Reason
+6914,,Bihar,KATIHAR,11,Bibhaker Jha,AAP,Aam Aadmi Party,False,False,,373035.0,no partner in seat
+6922,,Bihar,KATIHAR,11,Mohammad Hamid Mobarak,AITC,All India Trinamool Congress,False,False,,2677359.0,no partner in seat
+7013,,Bihar,MUZAFFARPUR,15,Md Anwarul Haque,IND,Independent,False,False,,110000.0,no partner in seat
+7005,,Bihar,MUZAFFARPUR,15,Bijendra Chaudhary,JD(U),Janata Dal  (United),False,False,,17245873.0,no partner in seat
+7228,,Bihar,SIWAN,18,Ram Vinay Ray,Bharatiya Ekta Dal,Bharatiya Ekta Dal,False,False,,185000.0,no partner in seat
+7222,,Bihar,SIWAN,18,Khalil Miyan Alias Md. Khalil Miyan,GGP,Gondvana Gantantra Party,False,False,,420444.0,no partner in seat
+6848,,Bihar,HAJIPUR,21,Vifiya Devi Urf Vikiya Devi,IND,Independent,False,False,,138000.0,no partner in seat
+6748,,Bihar,BEGUSARAI,24,Baijnath Paswan,IND,Independent,False,False,,119000.0,no partner in seat
+7083,,Bihar,PATALIPUTRA,31,Durgesh Nandan Singh,IND,Independent,False,False,,3273000.0,no partner in seat
+6716,,Bihar,ARRAH,32,Sri Bhagwan Singh Kushwaha,RJD,Rashtriya Janata Dal,False,False,,7973528.0,no partner in seat
+6711,,Bihar,ARRAH,32,Meena,JD(U),Janata Dal  (United),False,False,,90737486.0,no partner in seat
+6781,,Bihar,BUXAR,33,Lallan Rup Narayan Pathak,IND,Independent,False,False,,7750000.0,no partner in seat
+6858,,Bihar,JAHANABAD,36,Prashuram Bind,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,2636206.0,no partner in seat
+6860,,Bihar,JAHANABAD,36,Ramadhar Chaudhary,CPI(ML)L,Communist Party of India  (Marxist-Leninist)  (Liberation),False,False,,577037.0,no partner in seat
+6861,,Bihar,JAHANABAD,36,Ravindra Kumar,BSP,Bahujan Samaj Party,False,False,,1252000.0,no partner in seat
+6729,,Bihar,AURANGABAD,37,Vijeet Kumar,IND,Independent,False,False,,400000.0,no partner in seat
+6865,,Bihar,JAMUI,40,Binod Kumar Das,AAP,Aam Aadmi Party,False,False,,252600.0,no partner in seat
+6867,,Bihar,JAMUI,40,Dilip Paswan,IND,Independent,False,False,,1531232.0,no partner in seat
+7528,,Maharashtra,DHULE,2,Sayyad Mo. Kayam,IND,Independent,False,False,,66000.0,no partner in seat
+7513,,Maharashtra,DHULE,2,A.hamid Sh. Habib,IND,Independent,False,False,,63500.0,no partner in seat
+7519,,Maharashtra,DHULE,2,Gazi Atejad,IND,Independent,False,False,,33000.0,no partner in seat
+7586,,Maharashtra,JALGAON,3,Patil Ashok Tapiram,BJP,Bharatiya Janata Party,True,False,,226180395.0,no partner in seat
+7590,,Maharashtra,JALGAON,3,Bagul Vedu Tanaji,BSP,Bahujan Samaj Party,False,False,,960000.0,no partner in seat
+7593,,Maharashtra,JALGAON,3,Dr.mubeen Ahmad,IND,Independent,False,False,,22500.0,no partner in seat
+7597,,Maharashtra,JALGAON,3,Mango Pundlik Pagare,Rashtravadi Janata Party,Rashtravadi Janata Party,False,False,,55000.0,no partner in seat
+7600,,Maharashtra,JALGAON,3,Patil Suresh Padurang,Hindustan Janta Party,HINDUSTAN JANATA PARTY,False,False,,50000.0,no partner in seat
+7602,,Maharashtra,JALGAON,3,"Satish Bhaskar Patil (nandgaon Bk, Tal.erandol)",IND,Independent,False,False,,100000.0,no partner in seat
+7603,,Maharashtra,JALGAON,3,"Satish Bhaskar Patil (varkhedi, Tal.erandol)",IND,Independent,False,False,,100000.0,no partner in seat
+8048,,Maharashtra,RAVER,4,Chavhan Mohan Shamrao,IND,Independent,False,False,,4213625.0,no partner in seat
+8054,,Maharashtra,RAVER,4,Jain Manish Ishwarlal,NCP,National Congress Party,False,False,,1515146765.0,no partner in seat
+7841,,Maharashtra,NAGPUR,10,Bashir Khan Ramzan Khan,Minorities Democratic Party,Minorities Democratic Party,False,False,,7839000.0,no partner in seat
+7842,,Maharashtra,NAGPUR,10,Borkar Ravindra,IND,Independent,False,False,,300000.0,no partner in seat
+7843,,Maharashtra,NAGPUR,10,Chanda Manwatkar,IND,Independent,False,False,,0.0,no partner in seat
+7846,,Maharashtra,NAGPUR,10,Dilip Narayan,IND,Independent,False,False,,607658.0,no partner in seat
+7850,,Maharashtra,NAGPUR,10,Kavita Vinod Kumar Tibdiwal (agrawal),IND,Independent,False,False,,3694650.0,no partner in seat
+7852,,Maharashtra,NAGPUR,10,Mohd. Javed Mohd Mustak,Democratic Secular Party,Democratic Secular Party,False,False,,160500.0,no partner in seat
+7856,,Maharashtra,NAGPUR,10,Rajendrakumar Punjabrao Kanphade,IND,Independent,False,False,,1841093.0,no partner in seat
+7859,,Maharashtra,NAGPUR,10,Ramteke Jivan Namdeorao,IND,Independent,False,False,,390000.0,no partner in seat
+7863,,Maharashtra,NAGPUR,10,Shridhar Salve,IND,Independent,False,False,,300000.0,no partner in seat
+7866,,Maharashtra,NAGPUR,10,Suresh Udhavrao Shinde,IND,Independent,False,False,,2545000.0,no partner in seat
+7835,,Maharashtra,NAGPUR,10,Ajaj Julmoin Khan (ajaj Khan),IND,Independent,False,False,,137000.0,no partner in seat
+7838,,Maharashtra,NAGPUR,10,Ateeque Ahmad Mohd. Badiujjama,IND,Independent,False,False,,14360527.0,no partner in seat
+7877,,Maharashtra,NANDED,16,Pathan Jafar Ali Kha Md. Ali Kha,IND,Independent,False,False,,3642000.0,no partner in seat
+7882,,Maharashtra,NANDED,16,Sayyad Tanvir Sayyad Hamja,Majlis Bachao Tahreek,Majlis Bachao Tahreek,False,False,,50000.0,no partner in seat
+7888,,Maharashtra,NANDED,16,Venugopal Shastri Tumuluri,IND,Independent,False,False,,5810377.0,no partner in seat
+7889,,Maharashtra,NANDED,16,Wadje Panjab Shrihari,IND,Independent,False,False,,65425728.0,no partner in seat
+7868,,Maharashtra,NANDED,16,Adv. Deelip Kulkarni,IND,Independent,False,False,,2990000.0,no partner in seat
+7352,,Maharashtra,AURANGABAD,19,Khudus Samad,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,41890.0,no partner in seat
+7351,,Maharashtra,AURANGABAD,19,Kailas Chandrabhan Dhengde,IND,Independent,False,False,,17200.0,no partner in seat
+7911,,Maharashtra,NASHIK,21,Pawar Pradeepchandra Narayan,MNS,Maharashtra Navnirman sena,False,False,,335123791.0,no partner in seat
+7467,,Maharashtra,BHIWANDI,23,Ansari Jalaluddin Moinuddin,AAP,Aam Aadmi Party,False,False,,5896347.0,no partner in seat
+7470,,Maharashtra,BHIWANDI,23,Navid Hasan Momin,IND,Independent,False,False,,500157500.0,no partner in seat
+7635,,Maharashtra,KALYAN,24,Khan Mohammed Ahmed,IND,Independent,False,False,,200000.0,no partner in seat
+7630,,Maharashtra,KALYAN,24,Anil Motiram More,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,2828101.0,no partner in seat
+8152,,Maharashtra,THANE,25,Kamrujjama Kutubali Meenai,Peace Party,Peace Party,False,False,,3923999.0,no partner in seat
+7818,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Dilip Bhausaheb Gaikwad,IND,Independent,False,False,,6100.0,no partner in seat
+7822,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Khan Siraj Ahmad Sarajun Hak,IND,Independent,False,False,,1840000.0,no partner in seat
+7824,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Martis Clifard Lorence,IND,Independent,False,False,,7515805.0,no partner in seat
+7826,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Noor Mohammed Khan,IND,Independent,False,False,,47491284.0,no partner in seat
+7827,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Pal Jitendra Kumar Nanaku,IND,Independent,False,False,,1108000.0,no partner in seat
+7830,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Selvakumar Perin Baraj Nadar,IND,Independent,False,False,,2353210.0,no partner in seat
+7808,,Maharashtra,MUMBAI SOUTH,31,Santan Daigo Farnandis,IND,Independent,False,False,,149000.0,no partner in seat
+7810,,Maharashtra,MUMBAI SOUTH,31,Shankar Gangadhar Sonawane,IND,Independent,False,False,,4237600.0,no partner in seat
+7811,,Maharashtra,MUMBAI SOUTH,31,Sharma Gaurav Shrinivas,IND,Independent,False,False,,318305.0,no partner in seat
+7794,,Maharashtra,MUMBAI SOUTH,31,Abdul Basit Ibrahim Faith,IND,Independent,False,False,,888656.0,no partner in seat
+8010,,Maharashtra,RAIGAD,32,Tatkare Sunil Sham,IND,Independent,False,False,,726710.0,no partner in seat
+8007,,Maharashtra,RAIGAD,32,Kadam Ramesh Ramchandra,Peasants And Workers Party of India,,False,False,,15220472.0,no partner in seat
+7714,,Maharashtra,MAVAL,33,Ravindra Kashinath Patil,IND,Independent,False,False,,10563000.0,no partner in seat
+7930,,Maharashtra,OSMANABAD,40,Shaikh Mubarak Mainoddin,IND,Independent,False,False,,80000.0,no partner in seat
+9032,,Tamil Nadu,VILUPPURAM,13,P.muthaiyan,IND,Independent,False,False,,142500.0,no partner in seat
+9029,,Tamil Nadu,VILUPPURAM,13,M.kathirvel,IND,Independent,False,False,,1501500.0,no partner in seat
+9057,,Tamil Nadu,VIRUDHUNAGAR,34,Santhanakrishnan,Tamil Nadu Makkal Congress,Tamil Nadu Makkal Congress,False,False,,1153247.0,no partner in seat
+9058,,Tamil Nadu,VIRUDHUNAGAR,34,Soundhirapandian,IND,Independent,False,False,,705000.0,no partner in seat
+9060,,Tamil Nadu,VIRUDHUNAGAR,34,Thanuskodi,IND,Independent,False,False,,2772100.0,no partner in seat
+9042,,Tamil Nadu,VIRUDHUNAGAR,34,Lakshmi Gandan,IND,Independent,False,False,,446386.0,no partner in seat
+9051,,Tamil Nadu,VIRUDHUNAGAR,34,Palanichamy,IND,Independent,False,False,,0.0,no partner in seat
+8703,,Tamil Nadu,RAMANATHAPURAM,35,Allapichai .e,IND,Independent,False,False,,13660000.0,no partner in seat
+9765,,Uttar Pradesh,KAIRANA,2,Ramkaran,Bhartiya Vanchitsamaj Party,Bharatiya Vanchitsamaj Party,False,False,,2659619.0,no partner in seat
+9758,,Uttar Pradesh,KAIRANA,2,Diwakar,AITC,All India Trinamool Congress,False,False,,155543.0,no partner in seat
+10247,,Uttar Pradesh,SAMBHAL,8,Rashid Hussain,IND,Independent,False,False,,5907000.0,no partner in seat
+9995,,Uttar Pradesh,MEERUT,10,Morarji Nagma Arvind,INC,CONGRESS,False,False,,117912089.0,no partner in seat
+9247,,Uttar Pradesh,BAGHPAT,11,Nishant Tyagi,IND,Independent,False,False,,1147000.0,no partner in seat
+9568,,Uttar Pradesh,GAUTAM BUDHHA NAGAR,13,Ram Bilash,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,6470000.0,no partner in seat
+9576,,Uttar Pradesh,GAUTAM BUDHHA NAGAR,13,Smt. Sumeeti,IND,Independent,False,False,,1201712.0,no partner in seat
+9373,,Uttar Pradesh,BULANDSHAHR,14,Harveer,IND,Independent,False,False,,608000.0,no partner in seat
+9985,,Uttar Pradesh,MATHURA,17,Yogesh Kumar,BSP,Bahujan Samaj Party,False,False,,15890007.0,no partner in seat
+9973,,Uttar Pradesh,MATHURA,17,Hemendraveer Singh,Sarva Samaj Kalyan Party,Sarva Samaj Kalyan Party,False,False,,143500.0,no partner in seat
+9967,,Uttar Pradesh,MATHURA,17,Deol Hema Malini Dharmendra,BJP,Bharatiya Janata Party,True,False,,1782015620.0,no partner in seat
+9522,,Uttar Pradesh,FATEHPUR SIKRI,19,Lakshmi,AAP,Aam Aadmi Party,False,False,,886000.0,no partner in seat
+9448,,Uttar Pradesh,ETAH,22,Danvir,IND,Independent,False,False,,1423000.0,no partner in seat
+9450,,Uttar Pradesh,ETAH,22,Hemendraveer Singh,Sarva Samaj Kalyan Party,Sarva Samaj Kalyan Party,False,False,,143500.0,no partner in seat
+9451,,Uttar Pradesh,ETAH,22,Jogendra Singh,Mahan Dal,Mahan Dal,False,False,,4125422.0,no partner in seat
+9447,,Uttar Pradesh,ETAH,22,Rajvir Singh,BJP,Bharatiya Janata Party,True,False,,251921157.0,no partner in seat
+9322,,Uttar Pradesh,BAREILLY,25,Lotan Singh,IND,Independent,False,False,,1470000.0,no partner in seat
+9325,,Uttar Pradesh,BAREILLY,25,Mohammad Aslam,Peace Party,Peace Party,False,False,,720729.0,no partner in seat
+10284,,Uttar Pradesh,SHAHJAHANPUR,27,Roshan Lal Urf Roshan Kanaujia,IND,Independent,False,False,,991198.0,no partner in seat
+9697,,Uttar Pradesh,HARDOI,31,Shiv Kumar,IND,Independent,False,False,,148039.0,no partner in seat
+10023,,Uttar Pradesh,MISRIKH,32,Hans Mukhi,IND,Independent,False,False,,1492126.0,no partner in seat
+9890,,Uttar Pradesh,LUCKNOW,35,Rajeev Ranjan Tiwari,IND,Independent,False,False,,600151.0,no partner in seat
+9894,,Uttar Pradesh,LUCKNOW,35,Sanjeev,Bahujan Kranti Party (Marxwad-Ambedkarwad),Bahujan Kranti Party (Marxwad-Ambedkarwad),False,False,,1730850.0,no partner in seat
+9895,,Uttar Pradesh,LUCKNOW,35,Shailendra Singh,IND,Independent,False,False,,175000.0,no partner in seat
+9881,,Uttar Pradesh,LUCKNOW,35,Dr Rita Joshi,INC,CONGRESS,False,False,,19231172.0,no partner in seat
+9883,,Uttar Pradesh,LUCKNOW,35,Hari Ram,Samyak Parivartan Party,Samyak Parivartan Party,False,False,,1179873.0,no partner in seat
+10331,,Uttar Pradesh,SULTANPUR,38,Vijay S/o Subedar,IND,Independent,False,False,,1613786.0,no partner in seat
+9480,,Uttar Pradesh,FARRUKHABAD,40,Anokhey,IND,Independent,False,False,,10149863.0,no partner in seat
+9496,,Uttar Pradesh,FARRUKHABAD,40,Suresh Chand Saaraswat,IND,Independent,False,False,,22245.0,no partner in seat
+9494,,Uttar Pradesh,FARRUKHABAD,40,Sachin Singh,IND,Independent,False,False,,30876925.0,no partner in seat
+9464,,Uttar Pradesh,ETAWAH,41,Prem Das,SP,Samajwadi Party,False,False,,10427522.0,no partner in seat
+9461,,Uttar Pradesh,ETAWAH,41,Harvilas Doharey,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,6492000.0,no partner in seat
+9797,,Uttar Pradesh,KANNAUJ,42,Muhar Singh,IND,Independent,False,False,,6401000.0,no partner in seat
+9798,,Uttar Pradesh,KANNAUJ,42,Nirmal Kumar,BSP,Bahujan Samaj Party,False,False,,47927051.0,no partner in seat
+9822,,Uttar Pradesh,KANPUR,43,Saraswati,IND,Independent,False,False,,45912.0,no partner in seat
+9082,,Uttar Pradesh,AKBARPUR,44,Bajrang Prasad,Samtawadi Republican Party,Samtawadi Republican Party,False,False,,1834806.0,no partner in seat
+9092,,Uttar Pradesh,AKBARPUR,44,Ramakant,Peace Party,Peace Party,False,False,,6928000.0,no partner in seat
+9673,,Uttar Pradesh,HAMIRPUR,47,Atul Kumar Singh,AAP,Aam Aadmi Party,False,False,,2553384.0,no partner in seat
+9679,,Uttar Pradesh,HAMIRPUR,47,Preetam Singh,INC,CONGRESS,False,False,,24162000.0,no partner in seat
+9828,,Uttar Pradesh,KAUSHAMBI,50,Bina Rani,IND,Independent,False,False,,33409408.0,no partner in seat
+9132,,Uttar Pradesh,AMBEDKAR NAGAR,55,Hariom,BJP,Bharatiya Janata Party,True,False,,15318114.0,no partner in seat
+9142,,Uttar Pradesh,AMBEDKAR NAGAR,55,Tiger Ram Nihor,IND,Independent,False,False,,5347882.0,no partner in seat
+9337,,Uttar Pradesh,BASTI,61,Krishan Kumar,IND,Independent,False,False,,5852717.0,no partner in seat
+9331,,Uttar Pradesh,BASTI,61,Harish Chandra,BJP,Bharatiya Janata Party,True,False,,5345882.0,no partner in seat
+9340,,Uttar Pradesh,BASTI,61,Ram Prasad,BSP,Bahujan Samaj Party,False,False,,30654089.0,no partner in seat
+9339,,Uttar Pradesh,BASTI,61,Ram Karan,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,1211000.0,no partner in seat
+9299,,Uttar Pradesh,BANSGAON,67,Ramprit,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,7359921.0,no partner in seat
+9293,,Uttar Pradesh,BANSGAON,67,Chandrika,Rashtriya Janwadi Party (Krantikari),Rashtriya Janwadi Party (Krantikari),False,False,,211315.0,no partner in seat
+9867,,Uttar Pradesh,LALGANJ,68,Bechai,SP,Samajwadi Party,False,False,,4594861.0,no partner in seat
+9868,,Uttar Pradesh,LALGANJ,68,Dinesh,Asankhya Samaj Party,Asankhya Samaj Party,False,False,,126322.0,no partner in seat
+9863,,Uttar Pradesh,LALGANJ,68,Neelam,BJP,Bharatiya Janata Party,True,False,,33863562.0,no partner in seat
+9395,,Uttar Pradesh,CHANDAULI,76,Rama Shanker,Bhartiya Samajik Kranti Dal,Bharatiya Samajik Kranti Dal,False,False,,1257503.0,no partner in seat
+9396,,Uttar Pradesh,CHANDAULI,76,Sanjay,IND,Independent,False,False,,178000.0,no partner in seat
+10384,,Uttar Pradesh,VARANASI,77,Ram Lakhan Gupta,Jantantra Party,Jantantra Party,False,False,,12074892.0,no partner in seat
+9346,,Uttar Pradesh,BHADOHI,78,Akhilesh,NCP,National Congress Party,False,False,,1658500.0,no partner in seat
+9348,,Uttar Pradesh,BHADOHI,78,Jagjeevan Ram,IND,Independent,False,False,,350100.0,no partner in seat
+9349,,Uttar Pradesh,BHADOHI,78,Jeevan Kumar,IND,Independent,False,False,,6140000.0,no partner in seat
+9350,,Uttar Pradesh,BHADOHI,78,Rajesh Kumar,Adarsh Manavtawadi Party,Adarsh Manavtawadi Party,False,False,,402000.0,no partner in seat
+9353,,Uttar Pradesh,BHADOHI,78,Ramsakha,IND,Independent,False,False,,803628.0,no partner in seat
+10018,,Uttar Pradesh,MIRZAPUR,79,Sukchara Nand,SHS,shiv sena,False,False,,960000.0,no partner in seat
+10006,,Uttar Pradesh,MIRZAPUR,79,Girjashankar,IND,Independent,False,False,,1270000.0,no partner in seat
+10008,,Uttar Pradesh,MIRZAPUR,79,Jeera Devi,CPI(ML)L,Communist Party of India  (Marxist-Leninist)  (Liberation),False,False,,36000.0,no partner in seat
+10009,,Uttar Pradesh,MIRZAPUR,79,Jittoo,Lok Dal,Lok Dal,False,False,,24255000.0,no partner in seat
+10011,,Uttar Pradesh,MIRZAPUR,79,Radheshyam Urf Radheshyam Insan,Bhartiya Republican Party (Insan),Bhartiya Republican Party (Insan),False,False,,290500.0,no partner in seat
+3841,,Bihar,PURVI CHAMPARAN,3,Mohammad Ajmer Alam,IND,Independent,False,False,,2481716.0,no partner in seat
+3919,,Bihar,SITAMARHI,5,Amit Chaudhary,IND,Independent,False,False,,31837493.0,no partner in seat
+3659,,Bihar,MADHUBANI,6,Dr. Shakeel Ahmad,INC,CONGRESS,False,False,,26802196.0,no partner in seat
+3412,,Bihar,ARARIA,9,Shaheen Praveen,IND,Independent,False,False,,12421636.0,no partner in seat
+3644,,Bihar,MADHEPURA,13,Mohammad Arshad Hussain,IND,Independent,False,False,,11950000.0,no partner in seat
+3645,,Bihar,MADHEPURA,13,Rajesh Ranjan,Jan Adhikar Party (Loktantrik),Jan Adhikar Party (Loktantrik),False,False,,119543561.0,no partner in seat
+3489,,Bihar,DARBHANGA,14,Abdul Ajij,IND,Independent,False,False,,435000.0,no partner in seat
+4010,,Bihar,VAISHALI,16,Rinku Devi1,IND,Independent,False,False,,243300.0,no partner in seat
+3995,,Bihar,VAISHALI,16,Veena Devi,LJP,Lok Jan Shakti Party,True,False,,337284632.0,no partner in seat
+3518,,Bihar,GOPALGANJ,17,Surendra Ram S/O Ganesh Ram,RJD,Rashtriya Janata Dal,False,False,,8195606.0,no partner in seat
+3519,,Bihar,GOPALGANJ,17,Surendra Ram S/O Late Chandradev Ram,IND,Independent,False,False,,4069000.0,no partner in seat
+3946,,Bihar,SIWAN,18,Jai Prakash Prasad,IND,Independent,False,False,,4894500.0,no partner in seat
+3939,,Bihar,SIWAN,18,Abhishek Kumar,IND,Independent,False,False,,5082500.0,no partner in seat
+3956,,Bihar,SIWAN,18,Vijay Bahadur Singh,Rashtriya Sahyog Party,Rashtriya Sahyog Party,False,False,,5651000.0,no partner in seat
+3882,,Bihar,SARAN,20,Prabhat Kumar,IND,Independent,False,False,,2067500.0,no partner in seat
+3884,,Bihar,SARAN,20,Raj Kumar Ray,IND,Independent,False,False,,1050000.0,no partner in seat
+3440,,Bihar,BANKA,27,Md. Mukhtar Alam,IND,Independent,False,False,,1737000.0,no partner in seat
+3451,,Bihar,BANKA,27,Rajkishor Prasad,JMM,Jharkhand Mukti Morcha,False,False,,173443409.0,no partner in seat
+3477,,Bihar,BUXAR,33,Arvind Kumar Pandey,IND,Independent,False,False,,1521000.0,no partner in seat
+3479,,Bihar,BUXAR,33,Dhanjit Singh,Voters Party International,Voters Party  International,False,False,,5500000.0,no partner in seat
+3482,,Bihar,BUXAR,33,Rakesh Kumar Rai,IND,Independent,False,False,,46812000.0,no partner in seat
+3483,,Bihar,BUXAR,33,Ranjit Singh,IND,Independent,False,False,,24344242.0,no partner in seat
+3487,,Bihar,BUXAR,33,Uday Narayan Rai,Suheldev Bhartiya Samaj Party,Suheldev Bharatiya Samaj Party,False,False,,695070.0,no partner in seat
+3547,,Bihar,JAMUI,40,Balmiki Paswan,Hindusthan Nirman Dal,Hindustan Nirman Dal,False,False,,12704335.0,no partner in seat
+4226,,Maharashtra,DHULE,2,Dnyaneshwar Baliram Dhekale,IND,Independent,False,False,,1290000.0,no partner in seat
+4059,,Maharashtra,AKOLA,6,Gajanan Onkar Harne,IND,Independent,False,False,,4270000.0,no partner in seat
+4061,,Maharashtra,AKOLA,6,Kamble Bhanudas Chokhoba,BSP,Bahujan Samaj Party,False,False,,1042000.0,no partner in seat
+4701,,Maharashtra,RAMTEK,9,Gautam Shriram Wasnik,IND,Independent,False,False,,925000.0,no partner in seat
+4553,,Maharashtra,NAGPUR,10,Nanabhau Falgunrao Patole,INC,CONGRESS,False,False,,22160504.0,no partner in seat
+4173,,Maharashtra,BHANDARA GONDIYA,11,Kalchuri Nilesh,IND,Independent,False,False,,50000.0,no partner in seat
+4175,,Maharashtra,BHANDARA GONDIYA,11,Nana Jairam,NCP,National Congress Party,False,False,,57462818.0,no partner in seat
+4862,,Maharashtra,YAVATMAL WASHIM,14,Noorali Maheboob Ali Shah,IND,Independent,False,False,,270000.0,no partner in seat
+4272,,Maharashtra,HINGOLI,15,Sandip Nikhate,IND,Independent,False,False,,1155000.0,no partner in seat
+4266,,Maharashtra,HINGOLI,15,Maqbul Ahmed A.Habib,IND,Independent,False,False,,100000.0,no partner in seat
+4568,,Maharashtra,NANDED,16,Abdul Samad,SP,Samajwadi Party,False,False,,6351722.0,no partner in seat
+4573,,Maharashtra,NANDED,16,Madhavrao Sambhaji Gaikwad,IND,Independent,False,False,,1320045.0,no partner in seat
+4640,,Maharashtra,PARBHANI,17,Govind Ramrao Deshmukh,IND,Independent,False,False,,1243347.0,no partner in seat
+4644,,Maharashtra,PARBHANI,17,Rajan Ramchandra Kshirsagar,CPI,Communist Part of India,False,False,,5854206.0,no partner in seat
+4104,,Maharashtra,AURANGABAD,19,Mohammad Mohasin,Navbharat Nirman Party,,False,False,,40000.0,no partner in seat
+4108,,Maharashtra,AURANGABAD,19,Shaikh Nadim Shaikh Karim,Bahujan Maha Party,Bahujan Maha Party,False,False,,4100000.0,no partner in seat
+4103,,Maharashtra,AURANGABAD,19,Mahamad Jakir Abdul Kadar,Bharat Prabhat Party,Bharat Prabhat Party,False,False,,229500.0,no partner in seat
+4233,,Maharashtra,DINDORI,20,Gavit Jiva,CPI(M),COMMUNIST MARXIST PARTY OF INDIA,False,False,,22228892.0,no partner in seat
+4234,,Maharashtra,DINDORI,20,Tikaram Bagul,IND,Independent,False,False,,29971003.0,no partner in seat
+4228,,Maharashtra,DINDORI,20,Ashok Jadhav,BSP,Bahujan Samaj Party,False,False,,3123759.0,no partner in seat
+4231,,Maharashtra,DINDORI,20,Dattu Barde,Bhartiya Tribal Party,Bhartiya Tribal Party,False,False,,224000.0,no partner in seat
+4324,,Maharashtra,KALYAN,24,Chandrakant Mote,IND,Independent,False,False,,11406293.0,no partner in seat
+4328,,Maharashtra,KALYAN,24,Habibur Rehaman Obbadur Khan,Peace Party,Peace Party,False,False,,5887500.0,no partner in seat
+4330,,Maharashtra,KALYAN,24,Jafarullah Gulam Rab Sayyad,IND,Independent,False,False,,7033568.0,no partner in seat
+4334,,Maharashtra,KALYAN,24,Nafis Ahamad Ansari,IND,Independent,False,False,,863000.0,no partner in seat
+4335,,Maharashtra,KALYAN,24,Narendra Vaman More,IND,Independent,False,False,,9700000.0,no partner in seat
+4336,,Maharashtra,KALYAN,24,Ravindra Abhimanyu Kene,BSP,Bahujan Samaj Party,False,False,,8999137.0,no partner in seat
+4836,,Maharashtra,THANE,25,Ramesh Kumar Shrivastav,IND,Independent,False,False,,6015000.0,no partner in seat
+4831,,Maharashtra,THANE,25,Omprakash Shrilal Pal,IND,Independent,False,False,,3210000.0,no partner in seat
+4424,,Maharashtra,MUMBAI NORTH,26,Akhtar Shaikh,IND,Independent,False,False,,6053152.0,no partner in seat
+4473,,Maharashtra,MUMBAI NORTH EAST,28,Nutan Singh,Aapki Apni Party (Peoples),Aapki Apni Party (Peoples),False,False,,199000.0,no partner in seat
+4460,,Maharashtra,MUMBAI NORTH EAST,28,Manoj Kishorbhai Kotak,BJP,Bharatiya Janata Party,True,False,,54661944.0,no partner in seat
+4461,,Maharashtra,MUMBAI NORTH EAST,28,Aiyyar Ganesh,Bahujan Maha Party,Bahujan Maha Party,False,False,,41428196.0,no partner in seat
+4441,,Maharashtra,MUMBAI NORTH CENTRAL,29,Poonam Vajendla Rao,BJP,Bharatiya Janata Party,True,False,,22242513.0,no partner in seat
+4459,,Maharashtra,MUMBAI NORTH CENTRAL,29,Vansh Bahadur Yadav,IND,Independent,False,False,,11319000.0,no partner in seat
+4533,,Maharashtra,MUMBAI SOUTH CENTRAL,30,Sheetal Bharat Sasane,IND,Independent,False,False,,501700.0,no partner in seat
+4511,,Maharashtra,MUMBAI SOUTH,31,Dr. Anil Kumar Choudhari,Vanchit Bahujan Aaghadi,Vanchit Bahujan Aaghadi,False,False,,101100914.0,no partner in seat
+4519,,Maharashtra,MUMBAI SOUTH,31,Suresh Kumar Gautam,BSP,Bahujan Samaj Party,False,False,,2056000.0,no partner in seat
+4414,,Maharashtra,MAVAL,33,Prashant Ganpat Deshmukh,IND,Independent,False,False,,350630.0,no partner in seat
+4406,,Maharashtra,MAVAL,33,Dr. Somnath Arjun Pol,IND,Independent,False,False,,204055.0,no partner in seat
+4127,,Maharashtra,BARAMATI,35,Ulhas Mugut Chormale,IND,Independent,False,False,,3914944.0,no partner in seat
+4793,,Maharashtra,SHIRUR,36,Ovhal Rahul Raghunath,Vanchit Bahujan Aaghadi,Vanchit Bahujan Aaghadi,False,False,,1199794.0,no partner in seat
+4794,,Maharashtra,SHIRUR,36,Raeesa Shakil Shaikh,Bhartiya Kisan Party,Bhartiya Kisan Party,False,False,,5190000.0,no partner in seat
+4804,,Maharashtra,SHIRUR,36,Vahida Shahenu Shaikh,IND,Independent,False,False,,205000.0,no partner in seat
+4142,,Maharashtra,BEED,39,Juber Munshi Kureshi,IND,Independent,False,False,,1350000.0,no partner in seat
+4151,,Maharashtra,BEED,39,Pathan Sarfarzkhan Mahetabkhan,IND,Independent,False,False,,51000.0,no partner in seat
+4753,,Maharashtra,SATARA,45,Panjabrao Mahadev Patil,IND,Independent,False,False,,5926000.0,no partner in seat
+4756,,Maharashtra,SATARA,45,Shailendra Veer,IND,Independent,False,False,,23773491.0,no partner in seat
+4986,,Tamil Nadu,CHENNAI SOUTH,3,M.Moorthy,IND,Independent,False,False,,85342.0,no partner in seat
+4991,,Tamil Nadu,CHENNAI SOUTH,3,P.Karthikeyan,IND,Independent,False,False,,380407.0,no partner in seat
+4914,,Tamil Nadu,CHENNAI CENTRAL,4,Jitendra Kumar Jain,RPI,PREPUBLICAN PARTY OF INDIA,False,False,,12900000.0,no partner in seat
+4933,,Tamil Nadu,CHENNAI CENTRAL,4,Sheik Mohamed K,SDPI,Social Democratic Party of India,False,False,,2274313.0,no partner in seat
+5434,,Tamil Nadu,TENKASI,37,Deepan. M,IND,Independent,False,False,,5470000.0,no partner in seat
+5453,,Tamil Nadu,TENKASI,37,Suriya Ragupathy. T,IND,Independent,False,False,,523544.0,no partner in seat
+5950,,Uttar Pradesh,BIJNOR,4,Mohammad Zahid,IND,Independent,False,False,,1564215.0,no partner in seat
+6456,,Uttar Pradesh,MORADABAD,6,Nadir,Peace Party,Peace Party,False,False,,8896218.0,no partner in seat
+6454,,Uttar Pradesh,MORADABAD,6,Mo. Imran Khan,INC,CONGRESS,False,False,,31547689.0,no partner in seat
+6593,,Uttar Pradesh,SAMBHAL,8,Virendra Kumar,IND,Independent,False,False,,14776311.0,no partner in seat
+5793,,Uttar Pradesh,AMROHA,9,Robin Tyagi,IND,Independent,False,False,,241000.0,no partner in seat
+5723,,Uttar Pradesh,ALIGARH,15,Ajeet Kumar,BSP,Bahujan Samaj Party,False,False,,281852783.0,no partner in seat
+5907,,Uttar Pradesh,BAREILLY,25,Jagpal,Akhand Samaj Party,Akhand Samaj Party,False,False,,1406083.0,no partner in seat
+5908,,Uttar Pradesh,BAREILLY,25,Javed Khan,IND,Independent,False,False,,1414000.0,no partner in seat
+5918,,Uttar Pradesh,BAREILLY,25,Syed Rashid Ali,IND,Independent,False,False,,10118000.0,no partner in seat
+6299,,Uttar Pradesh,KHERI,28,Shri Krishna,Peace Party,Peace Party,False,False,,2253000.0,no partner in seat
+6300,,Uttar Pradesh,KHERI,28,Shrikrishna Kumar,IND,Independent,False,False,,1239500.0,no partner in seat
+5995,,Uttar Pradesh,DHAURAHRA,29,Reetu Verma,IND,Independent,False,False,,8210000.0,no partner in seat
+5989,,Uttar Pradesh,DHAURAHRA,29,Anil Kumar,Bahujan Awam Party,Bahujan Awam Party,False,False,,1767409.0,no partner in seat
+6435,,Uttar Pradesh,MISRIKH,32,Shri Pal Verma,IND,Independent,False,False,,13653000.0,no partner in seat
+6339,,Uttar Pradesh,LUCKNOW,35,Mo Fahim,Indian National League,Indian National League,False,False,,15485250.0,no partner in seat
+6335,,Uttar Pradesh,LUCKNOW,35,Dev Narayan Singh,Peoples Party of India (Democratic),Peoples Party of India (Democratic),False,False,,22346301.0,no partner in seat
+6262,,Uttar Pradesh,KANNAUJ,42,Sunil Kumar,IND,Independent,False,False,,4886041.0,no partner in seat
+5716,,Uttar Pradesh,AKBARPUR,44,Nisha,BSP,Bahujan Samaj Party,False,False,,134661233.0,no partner in seat
+5718,,Uttar Pradesh,AKBARPUR,44,Ramgopal,Rashtriya Janutthan Party,Rashtriya Janutthan Party,False,False,,2858000.0,no partner in seat
+6168,,Uttar Pradesh,HAMIRPUR,47,Pritam Singh,INC,CONGRESS,False,False,,28424501.0,no partner in seat
+6172,,Uttar Pradesh,HAMIRPUR,47,Sarju Lal,IND,Independent,False,False,,4447262.0,no partner in seat
+6165,,Uttar Pradesh,HAMIRPUR,47,Kamta Prasad,IND,Independent,False,False,,6826000.0,no partner in seat
+6166,,Uttar Pradesh,HAMIRPUR,47,Kedarnath,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,23400000.0,no partner in seat
+6280,,Uttar Pradesh,KAUSHAMBI,50,Girish Chandra,INC,CONGRESS,False,False,,481.0,no partner in seat
+6288,,Uttar Pradesh,KAUSHAMBI,50,Shailendra Kumar S/O Shiv Prashad,IND,Independent,False,False,,985000.0,no partner in seat
+6287,,Uttar Pradesh,KAUSHAMBI,50,Shailendra Kumar S/O Gayadeen,IND,Independent,False,False,,1940866.0,no partner in seat
+6490,,Uttar Pradesh,PHULPUR,51,Shri Chandra Kesarwani,Baliraja Party,Baliraja Party,False,False,,4181850.0,no partner in seat
+6487,,Uttar Pradesh,PHULPUR,51,Ram Nath,Rashtriya Janmat Party,Rashtriya Janmat Party,False,False,,678882.0,no partner in seat
+5737,,Uttar Pradesh,ALLAHABAD,52,Ajay Kumar,IND,Independent,False,False,,22346181.0,no partner in seat
+5864,,Uttar Pradesh,BAHRAICH,56,Mojilal,Rashtriya Janadhikar Party,Rashtriya Jan  Adhikar Party,False,False,,886000.0,no partner in seat
+6000,,Uttar Pradesh,DOMARIYAGANJ,60,Chandrash,INC,CONGRESS,False,False,,64076173.0,no partner in seat
+6002,,Uttar Pradesh,DOMARIYAGANJ,60,Keshav,Suheldev Bhartiya Samaj Party,Suheldev Bharatiya Samaj Party,False,False,,2893000.0,no partner in seat
+6004,,Uttar Pradesh,DOMARIYAGANJ,60,Shravan Kumar,IND,Independent,False,False,,52000.0,no partner in seat
+6599,,Uttar Pradesh,SANT KABIR NAGAR,62,Lotan Prasad,IND,Independent,False,False,,1201000.0,no partner in seat
+6133,,Uttar Pradesh,GHOSI,70,Rajesh Kumar Gond,Gondvana Gantantra Party,Gondvana Gantantra Party,False,False,,165000.0,no partner in seat
+5874,,Uttar Pradesh,BALLIA,72,Major Ramesh Chandra Upadhyay,Akhil Bharat Hindu Mahasabha,AKHIL BHARAT HINDU MAHA SABHA,False,False,,931000.0,no partner in seat
+6349,,Uttar Pradesh,MACHHLISHAHR,74,Deepak Kumar,IND,Independent,False,False,,198000.0,no partner in seat
+6115,,Uttar Pradesh,GHAZIPUR,75,Hridaya Narayan,IND,Independent,False,False,,43019165.0,no partner in seat
+6119,,Uttar Pradesh,GHAZIPUR,75,Ram Pravesh,Moulik Adhikar Party,Moulik Adhikar Party,False,False,,5831000.0,no partner in seat
+367,,Bihar,PURVI CHAMPARAN,3,Rajesh Singh S/O Manager Singh,IND,Independent,False,False,,4640174.0,no partner in seat
+346,,Bihar,PATNA SAHIB,30,Sanjay Kumar Alias Sanjay Balmiki,IND,Independent,False,False,,1532420.0,no partner in seat
+65,,Bihar,BUXAR,33,Aanand Misra,IND,Independent,False,False,,5666811.0,no partner in seat
+67,,Bihar,BUXAR,33,Anand Mishra,IND,Independent,False,False,,25044394.0,no partner in seat
+131,,Bihar,JAHANABAD,36,Chandeshwar Prasad S/O Shiv Prasad,IND,Independent,False,False,,7566303.0,no partner in seat
+872,,Maharashtra,JALGAON,3,Ishwar Dayaram More,Sainik Samaj Party,,False,False,,7550443.0,no partner in seat
+1143,,Maharashtra,MUMBAI SOUTH,31,Mohammed Mahtab Akhtar Hussain Shaikh,Bahujan Mukti Party,Bahujan Mukti Party,False,False,,409959.0,no partner in seat
+500,,Maharashtra,AHMEDNAGAR,37,Adv. Shivajirao Waman Damale,Sainik Samaj Party,,False,False,,390000.0,no partner in seat
+809,,Maharashtra,HATKANANGALE,48,Anandrao Vasantrao Sarnaik,IND,Independent,False,False,,21400000.0,no partner in seat
+2655,,Uttar Pradesh,BADAUN,23,Hariraj Singh Alias Sipu Yadav,Log Party,,False,False,,9056729.0,no partner in seat
+3087,,Uttar Pradesh,KHERI,28,Darwari Alias Darwarilal Chauhan,Janta Kranti Party,,False,False,,3193100.0,no partner in seat
+2698,,Uttar Pradesh,BANDA,48,Pancha Alias Panchamlal,Bhagidari Party(P),,False,False,,3620000.0,no partner in seat
+3078,,Uttar Pradesh,KAUSHAMBI (SC),50,Rajendra Sonkar Alias Panna Bhaiya,IND,Independent,False,False,,4631123.0,no partner in seat
+1216,2024.0,Maharashtra,NANDED,16,Chavan Ravindra Vasantrao,INC,CONGRESS,True,True,20-11-2024,55549568.0,no partner in seat or by-election not in OpenCity
+1217,2024.0,Maharashtra,NANDED,16,Abdul Salam Salfi,IND,Independent,False,True,20-11-2024,260000.0,no partner in seat or by-election not in OpenCity
+1218,2024.0,Maharashtra,NANDED,16,Adv Altaf Ahmed,Indian National League,Indian National League,False,True,20-11-2024,7631826.0,no partner in seat or by-election not in OpenCity
+1219,2024.0,Maharashtra,NANDED,16,Avinash Vishwanath Bhosikar,Vanchit Bahujan Aaghadi,Vanchit Bahujan Aaghadi,False,True,20-11-2024,44060000.0,no partner in seat or by-election not in OpenCity
+1220,2024.0,Maharashtra,NANDED,16,Chalika Chandra Sekhar,IND,Independent,False,True,20-11-2024,4480000.0,no partner in seat or by-election not in OpenCity
+1221,2024.0,Maharashtra,NANDED,16,Dr Santukrao Marotrao Hambarde,BJP,Bharatiya Janata Party,False,True,20-11-2024,223178876.0,no partner in seat or by-election not in OpenCity
+1222,2024.0,Maharashtra,NANDED,16,Gajbhare Sahebrao Bhiva,IND,Independent,False,True,20-11-2024,4808483.0,no partner in seat or by-election not in OpenCity
+1223,2024.0,Maharashtra,NANDED,16,Gangadhar Bhange,Rashtriya Samaj Paksha,Rashtriya Samaj Paksha,False,True,20-11-2024,18696533.0,no partner in seat or by-election not in OpenCity
+1224,2024.0,Maharashtra,NANDED,16,Kalpana Sanjay Gaikwad,Buland Bharat Party,,False,True,20-11-2024,9781042.0,no partner in seat or by-election not in OpenCity
+1225,2024.0,Maharashtra,NANDED,16,Kante Sayanna,IND,Independent,False,True,20-11-2024,30680000.0,no partner in seat or by-election not in OpenCity
+1226,2024.0,Maharashtra,NANDED,16,Khamar Bin Badar Aljabari,All India Majlis-E-Inquilab-E-Millat,,False,True,20-11-2024,963000.0,no partner in seat or by-election not in OpenCity
+1227,2024.0,Maharashtra,NANDED,16,Madhukarrao Kishanrao Kshirsagar,IND,Independent,False,True,20-11-2024,29493569.0,no partner in seat or by-election not in OpenCity
+1228,2024.0,Maharashtra,NANDED,16,Manmath Madhavrao Patil,IND,Independent,False,True,20-11-2024,12423600.0,no partner in seat or by-election not in OpenCity
+1229,2024.0,Maharashtra,NANDED,16,Nagorao Digambar Waghmare,Janhit Lokshahi Party,,False,True,20-11-2024,19068424.0,no partner in seat or by-election not in OpenCity
+1230,2024.0,Maharashtra,NANDED,16,Raju Madhukar Sonsale,Republican Sena,Republican Sena,False,True,20-11-2024,840000.0,no partner in seat or by-election not in OpenCity
+1231,2024.0,Maharashtra,NANDED,16,Sambhaji Dashrath Shinde,IND,Independent,False,True,20-11-2024,0.0,no partner in seat or by-election not in OpenCity
+1232,2024.0,Maharashtra,NANDED,16,Syed Saida,Navarang Congress Party,Navarang Congress Party,False,True,20-11-2024,386300.0,no partner in seat or by-election not in OpenCity
+1233,2024.0,Maharashtra,NANDED,16,Vishnu Maroti Jadhav,Rashtriya Kisan Congress Party,,False,True,20-11-2024,52000.0,no partner in seat or by-election not in OpenCity
+9773,2014.0,Uttar Pradesh,KAIRANA,2,Priti Kashyap,Jay Hind Jay Bharat Party,,False,True,28-05-2018,854000.0,no partner in seat or by-election not in OpenCity
+6538,2019.0,Uttar Pradesh,RAMPUR,7,Ghanshyam Singh Lodhi,BJP,Bharatiya Janata Party,True,True,23-06-2022,21485502.0,no partner in seat or by-election not in OpenCity
+6539,2019.0,Uttar Pradesh,RAMPUR,7,Hariprakash Arya,Sanyukt Samajwadi Dal,Sanyukt Samajwadi Dal,False,True,23-06-2022,6088.0,no partner in seat or by-election not in OpenCity
+6540,2019.0,Uttar Pradesh,RAMPUR,7,Imtiyaz Ur Rehman Khan,IND,Independent,False,True,23-06-2022,1348500.0,no partner in seat or by-election not in OpenCity
+6541,2019.0,Uttar Pradesh,RAMPUR,7,Kapil Muni,IND,Independent,False,True,23-06-2022,119554223.0,no partner in seat or by-election not in OpenCity
+6542,2019.0,Uttar Pradesh,RAMPUR,7,Mohd. Asim Raja,SP,Samajwadi Party,False,True,23-06-2022,736407.0,no partner in seat or by-election not in OpenCity
+6543,2019.0,Uttar Pradesh,RAMPUR,7,Shiv Prasad,IND,Independent,False,True,23-06-2022,5906000.0,no partner in seat or by-election not in OpenCity
+9959,2014.0,Uttar Pradesh,MAINPURI,21,Ashok Kumar Tewari,IND,Independent,False,True,13-09-2014,7370000.0,no partner in seat or by-election not in OpenCity
+6384,2019.0,Uttar Pradesh,MAINPURI,21,Dimple Yadav,SP,Samajwadi Party,True,True,05-12-2022,399150416.0,no partner in seat or by-election not in OpenCity
+6385,2019.0,Uttar Pradesh,MAINPURI,21,Bhupendra Kumar Dhangar,Rashtriya Shoshit Samaj Party,Rashtriya Shoshit Samaj Party,False,True,05-12-2022,2804182.0,no partner in seat or by-election not in OpenCity
+6386,2019.0,Uttar Pradesh,MAINPURI,21,Pramod Kumar Yadav,Bhartiya Krishak Dal,Bhartiya Krishak Dal,False,True,05-12-2022,5379000.0,no partner in seat or by-election not in OpenCity
+6387,2019.0,Uttar Pradesh,MAINPURI,21,Raghuraj Singh Shakya,BJP,Bharatiya Janata Party,False,True,05-12-2022,96257581.0,no partner in seat or by-election not in OpenCity
+6388,2019.0,Uttar Pradesh,MAINPURI,21,Suresh Chandra,IND,Independent,False,True,05-12-2022,16161234.0,no partner in seat or by-election not in OpenCity
+6389,2019.0,Uttar Pradesh,MAINPURI,21,Sushma Devi,IND,Independent,False,True,05-12-2022,46455.0,no partner in seat or by-election not in OpenCity
+10130,2014.0,Uttar Pradesh,PHULPUR,51,Rais Ahmad Khan,Parivartan Samaj Party,Parivartan Samaj Party,False,True,11-03-2018,17931000.0,no partner in seat or by-election not in OpenCity
+10139,2014.0,Uttar Pradesh,PHULPUR,51,Varun Kumar Pal,PSP,Praja Socialist Party,False,True,11-03-2018,49330.0,no partner in seat or by-election not in OpenCity
+10125,2014.0,Uttar Pradesh,PHULPUR,51,Hasan Akhlak,IND,Independent,False,True,11-03-2018,5940000.0,no partner in seat or by-election not in OpenCity
+10134,2014.0,Uttar Pradesh,PHULPUR,51,Ramesh,Lohia Sanyukta Samajwadi Party,,False,True,11-03-2018,14917000.0,no partner in seat or by-election not in OpenCity
+5825,2019.0,Uttar Pradesh,AZAMGARH,69,"Dinesh Lal Yadav ""Nirahua""",BJP,Bharatiya Janata Party,True,True,23-06-2022,76746563.0,no partner in seat or by-election not in OpenCity
+5826,2019.0,Uttar Pradesh,AZAMGARH,69,Amarawati,Al-Hind Party,Al-Hind Party,False,True,23-06-2022,40000.0,no partner in seat or by-election not in OpenCity
+5827,2019.0,Uttar Pradesh,AZAMGARH,69,Ambrish Kumar Vijaita,IND,Independent,False,True,23-06-2022,45000.0,no partner in seat or by-election not in OpenCity
+5828,2019.0,Uttar Pradesh,AZAMGARH,69,Dharmendra Yadav,SP,Samajwadi Party,False,True,23-06-2022,129781705.0,no partner in seat or by-election not in OpenCity
+5829,2019.0,Uttar Pradesh,AZAMGARH,69,Dheeraj Srivastava,Pragatisheel Samaj Party,Pragatisheel Samaj Party,False,True,23-06-2022,370000.0,no partner in seat or by-election not in OpenCity
+5830,2019.0,Uttar Pradesh,AZAMGARH,69,Jaynath Chauhan,Janta Kranti Party (Rashtravadi),Janta Kranti Party (Rashtravadi),False,True,23-06-2022,1722000.0,no partner in seat or by-election not in OpenCity
+5831,2019.0,Uttar Pradesh,AZAMGARH,69,Pankaj Kumar Yadav,IND,Independent,False,True,23-06-2022,55954.0,no partner in seat or by-election not in OpenCity
+5832,2019.0,Uttar Pradesh,AZAMGARH,69,Rajiv Talwar,IND,Independent,False,True,23-06-2022,8950000.0,no partner in seat or by-election not in OpenCity
+5833,2019.0,Uttar Pradesh,AZAMGARH,69,Ramakant Yadav,IND,Independent,False,True,23-06-2022,5125000.0,no partner in seat or by-election not in OpenCity
+5834,2019.0,Uttar Pradesh,AZAMGARH,69,Ravindra Nath Sharma,Moulik Adhikar Party,Moulik Adhikar Party,False,True,23-06-2022,5564500.0,no partner in seat or by-election not in OpenCity
+5835,2019.0,Uttar Pradesh,AZAMGARH,69,Sarvar Ali,Sarvar Party,,False,True,23-06-2022,930330.0,no partner in seat or by-election not in OpenCity
+5836,2019.0,Uttar Pradesh,AZAMGARH,69,Shah Alam Alias Guddu Jamali,BSP,Bahujan Samaj Party,False,True,23-06-2022,1975391697.0,no partner in seat or by-election not in OpenCity
+5837,2019.0,Uttar Pradesh,AZAMGARH,69,Virendra Kumar Nishad,IND,Independent,False,True,23-06-2022,435000.0,no partner in seat or by-election not in OpenCity
