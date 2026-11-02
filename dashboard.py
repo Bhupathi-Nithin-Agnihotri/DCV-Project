@@ -83,7 +83,7 @@ def message_figure(title, text):
     fig.update_yaxes(visible=False)
     return style(fig, title, legend=False)
 
-CONFIG = {"displaylogo": False, "modeBarButtonsToRemove": ["lasso2d", "select2d"]}
+CONFIG = {"displaylogo": False, "modeBarButtonsToRemove": ["lasso2d", "select2d"]}   
 
 def subset(states):
     d = results[results["State"].isin(states)]
