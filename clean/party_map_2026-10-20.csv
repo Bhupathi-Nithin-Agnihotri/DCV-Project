@@ -1,11 +1,11 @@
 State,Party_Raw,Party_ID,Party_Method,Party_Canonical,Party_Type
 Bihar,BJP,1605.0,exact,Bharatiya Janata Party,National Party
 Bihar,INC,3482.0,exact,CONGRESS,National Party
-Bihar,JD(U),11002.0,ambiguous,Janata Dal  (United),State-based Party
+Bihar,JD(U),11002.0,ambiguous,Janata Dal (United),State-based Party
 Bihar,IND,10809.0,exact,Independent,Independents
 Bihar,BED,9050.0,exact,Bharatiya Ekta Dal,Local Party
 Bihar,JMM,4653.0,exact,Jharkhand Mukti Morcha,State-based Party
-Bihar,CPI(ML)(L),2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Bihar,CPI(ML)(L),2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Bihar,BSP,16651.0,exact,Bahujan Samaj Party,State-based Party
 Bihar,AAAP,13.0,exact,Aam Aadmi Party,State-based Party
 Bihar,JPS,4612.0,exact,Janvadi Party(Socialist,Local Party
@@ -102,7 +102,7 @@ Maharashtra,RPI(KH),14880.0,exact,Republican Party of India (Khobragade Group),L
 Maharashtra,GGP,3129.0,exact,Gondvana Gantantra Party,Local Party
 Maharashtra,CPIM,14635.0,ambiguous,COMMUNIST MARXIST PARTY OF INDIA,State-based Party
 Maharashtra,DESEP,10184.0,exact,Democratic Secular Party,Local Party
-Maharashtra,JD(U),11002.0,ambiguous,Janata Dal  (United),State-based Party
+Maharashtra,JD(U),11002.0,ambiguous,Janata Dal (United),State-based Party
 Maharashtra,ABMP,8736.0,exact,Akhil Bharatiya Manavata Paksha,Local Party
 Maharashtra,ASP,9011.0,ambiguous,Ambedkar Samaj Party,Local Party
 Maharashtra,CPI,2444.0,exact,Communist Part of India,State-based Party
@@ -112,7 +112,7 @@ Maharashtra,RP(K),14880.0,ambiguous,Republican Party of India (Khobragade Group)
 Maharashtra,MNS,11633.0,exact,Maharashtra Navnirman sena,Local Party
 Maharashtra,MVA,16249.0,exact,Maharashtra Vikas Aghadi,Local Party
 Maharashtra,CPM,14635.0,exact,COMMUNIST MARXIST PARTY OF INDIA,State-based Party
-Maharashtra,JD(S),10979.0,exact,Janata Dal  (Secular),State-based Party
+Maharashtra,JD(S),10979.0,exact,Janata Dal (Secular),State-based Party
 Maharashtra,IUML,3952.0,exact,Indian Union Muslim League,State-based Party
 Maharashtra,MBT,5282.0,exact,Majlis Bachao Tahreek,Local Party
 Maharashtra,ANC,840.0,exact,Ambedkar National Congress,Local Party
@@ -161,19 +161,19 @@ Tamil Nadu,RPI,6911.0,exact,PREPUBLICAN PARTY OF INDIA,State-based Party
 Tamil Nadu,BJP,1605.0,exact,Bharatiya Janata Party,National Party
 Tamil Nadu,APM,850.0,exact,Ambedkar People's Movement,Local Party
 Tamil Nadu,NOC,11811.0,exact,National Organisation Congress,Local Party
-Tamil Nadu,JD(U),11002.0,ambiguous,Janata Dal  (United),State-based Party
+Tamil Nadu,JD(U),11002.0,ambiguous,Janata Dal (United),State-based Party
 Tamil Nadu,RPI(A),12285.0,exact,Republican Party of India (A),State-based Party
 Tamil Nadu,MDMK,11601.0,exact,Marumalarchi Dravida Munnetra Kazhagam,State-based Party
-Tamil Nadu,CPI(ML)(L),2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Tamil Nadu,CPI(ML)(L),2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Tamil Nadu,UMK,13032.0,exact,Ulzaipali Makkal Katchy,Local Party
 Tamil Nadu,PMK,11891.0,exact,Pattali Makkal Katchi,State-based Party
 Tamil Nadu,IUML,3952.0,exact,Indian Union Muslim League,State-based Party
 Tamil Nadu,SAP,7575.0,ambiguous,Samata Party,National Party
 Tamil Nadu,BDBRAJP,1389.0,exact,Bharatiya Dr. B.R.Ambedkar Janta Party,Local Party
 Tamil Nadu,UCPI,8360.0,exact,United Communist Party of India,Local Party
-Tamil Nadu,JD(S),10979.0,exact,Janata Dal  (Secular),State-based Party
+Tamil Nadu,JD(S),10979.0,exact,Janata Dal (Secular),State-based Party
 Tamil Nadu,ADSMK,8812.0,exact,Anaithindia Dravidar Samudaya Munnetra Kazhagam,Local Party
-Tamil Nadu,JMM(U),11174.0,exact,Jharkhand Mukti Morcha  (Ulgulan),Local Party
+Tamil Nadu,JMM(U),11174.0,exact,Jharkhand Mukti Morcha (Ulgulan),Local Party
 Tamil Nadu,TTNC,16619.0,exact,Thrinamool Tamil Nadu Congress,Local Party
 Tamil Nadu,CPIM,14635.0,ambiguous,COMMUNIST MARXIST PARTY OF INDIA,State-based Party
 Tamil Nadu,RSPS,6792.0,ambiguous,Rashtriya Samaj Paksha,Local Party
@@ -200,7 +200,7 @@ Uttar Pradesh,ARVP,84.0,exact,Adarsh Rashtriya Vikas Party,Local Party
 Uttar Pradesh,RLD,12169.0,exact,Rashtriya Lok Dal,State-based Party
 Uttar Pradesh,AITC,18228.0,exact,All India Trinamool Congress,State-based Party
 Uttar Pradesh,BaVaP,1862.0,exact,Bharatiya Vanchitsamaj Party,Local Party
-Uttar Pradesh,JD(U),11002.0,ambiguous,Janata Dal  (United),State-based Party
+Uttar Pradesh,JD(U),11002.0,ambiguous,Janata Dal (United),State-based Party
 Uttar Pradesh,AIRSP,753.0,exact,All India Ravidas Samata Party,Local Party
 Uttar Pradesh,MKUP,5279.0,exact,Majdoor Kisan Union Party,Local Party
 Uttar Pradesh,VAJP,8471.0,exact,Vanchit Jamat Party,Local Party
@@ -259,7 +259,7 @@ Uttar Pradesh,BNIP,1746.0,exact,Bharatiya Naujawan Inklav party,Local Party
 Uttar Pradesh,BKrD,1982.0,exact,Bhartiya Krishak Dal,Local Party
 Uttar Pradesh,BRVP,9493.0,exact,BHARATIYA VIKASH PARTY,Local Party
 Uttar Pradesh,CPI,2444.0,exact,Communist Part of India,State-based Party
-Uttar Pradesh,CPI(ML)(L),2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Uttar Pradesh,CPI(ML)(L),2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Uttar Pradesh,NCP,5792.0,exact,National Congress Party,State-based Party
 Uttar Pradesh,BJKD,9086.0,exact,Bharatiya Jan Kranti Dal (Democratic),Local Party
 Uttar Pradesh,CPIM,14635.0,ambiguous,COMMUNIST MARXIST PARTY OF INDIA,State-based Party
@@ -370,7 +370,7 @@ Bihar,KPOI,24964.0,exact,Kisan Party of India,Not in TCPD
 Bihar,BMtrP,1995.0,exact,Bhartiya Mitra Party,Not in TCPD
 Bihar,VSIP,18731.0,exact,Vikassheel Insaan Party,Local Party
 Bihar,PUJP,24534.0,exact,Purvanchal Janta Party (Secular),Not in TCPD
-Bihar,VPI,8516.0,exact,Voters Party  International,Not in TCPD
+Bihar,VPI,8516.0,exact,Voters Party International,Not in TCPD
 Bihar,PSPL,17283.0,exact,Pragatishil Samajwadi Party (Lohia),Not in TCPD
 Bihar,SJDD,7361.0,exact,Samajwadi Janata Dal Democratic,Not in TCPD
 Bihar,PPID,6054.0,exact,Peoples Party of India (Democratic),Not in TCPD
@@ -392,7 +392,7 @@ Bihar,GJNP,3085.0,exact,Garib Janshakti Party,Not in TCPD
 Bihar,JTVP,24963.0,exact,Jantantrik Vikas Party,Not in TCPD
 Bihar,SPAKP,18322.0,exact,Sapaks Party,Not in TCPD
 Bihar,RPP,12352.0,exact,Rashtriya Pragati Party,Local Party
-Bihar,LCD,24967.0,exact,Lok  Chetna  Dal,Not in TCPD
+Bihar,LCD,24967.0,exact,Lok Chetna Dal,Not in TCPD
 Bihar,BSSPA,9671.0,exact,Bharatiya Samta Samaj Party,Local Party
 Bihar,RSTSAHP,24985.0,exact,Rashtriya Sahyog Party,Not in TCPD
 Bihar,SANVP,7674.0,exact,Sanyukt Vikas Party,Not in TCPD
@@ -429,7 +429,7 @@ Bihar,RUC,6870.0,exact,Rashtriya Ulama Council,Local Party
 Maharashtra,VBA,24559.0,exact,Vanchit Bahujan Aaghadi,Not in TCPD
 Maharashtra,BTP,2055.0,exact,Bhartiya Tribal Party,Not in TCPD
 Maharashtra,LKSGM,11491.0,exact,Loksangram,Local Party
-Maharashtra,BARESP,1096.0,exact,Bahujan Republican  Socialist Party,Not in TCPD
+Maharashtra,BARESP,1096.0,exact,Bahujan Republican Socialist Party,Not in TCPD
 Maharashtra,BALP,18015.0,exact,Baliraja Party,Not in TCPD
 Maharashtra,BKNP,1979.0,exact,Bhartiya Kisan Party,Not in TCPD
 Maharashtra,BAHUMP,1060.0,exact,Bahujan Maha Party,Not in TCPD
@@ -486,7 +486,7 @@ Maharashtra,PUNP,24391.0,exact,People’s Union Party,Not in TCPD
 Maharashtra,SwaBP,18091.0,exact,Swarna Bharat Party,Not in TCPD
 Maharashtra,RTORP,17316.0,exact,Right to Recall Party,Not in TCPD
 Maharashtra,MAHKRS,11376.0,exact,Krantisena Maharashtra,Local Party
-Maharashtra,DSPVAD,2893.0,exact,Dalit Soshit Pichhara Varg  Adhikar Dal,Not in TCPD
+Maharashtra,DSPVAD,2893.0,exact,Dalit Soshit Pichhara Varg Adhikar Dal,Not in TCPD
 Maharashtra,BEPP,24392.0,exact,Bhapase Party,Not in TCPD
 Maharashtra,BJAZP,24357.0,exact,Bahujan Azad Party,Not in TCPD
 Maharashtra,ABEP,24485.0,exact,Akhil Bhartiya Ekata Party,Not in TCPD
@@ -520,9 +520,9 @@ Tamil Nadu,AMPK,24412.0,exact,Anaithu Makkal Puratchi Katchi,Not in TCPD
 Tamil Nadu,IMK,24413.0,exact,Ilantamilar Munnani Kazhagam,Not in TCPD
 Tamil Nadu,PUJP,24534.0,exact,Purvanchal Janta Party (Secular),Not in TCPD
 Tamil Nadu,MSKK,5297.0,exact,"Makkal Sananayaga Kudiyarasu Katchi,",Not in TCPD
-Tamil Nadu,TMC(M),8247.0,exact,Tamil Maanila Congress  (Moopanar),Local Party
+Tamil Nadu,TMC(M),8247.0,exact,Tamil Maanila Congress (Moopanar),Local Party
 Tamil Nadu,SMFB,7333.0,exact,Samajwadi Forward Bloc,Not in TCPD
-Tamil Nadu,AIPTMMK,24414.0,exact,All  India Puratchi Thalaivar Makkal Munnettra Kazhagam,Not in TCPD
+Tamil Nadu,AIPTMMK,24414.0,exact,All India Puratchi Thalaivar Makkal Munnettra Kazhagam,Not in TCPD
 Tamil Nadu,AIDMMK,24415.0,exact,Ahila India Dhayaga Makkal Munnetra Katchi,Not in TCPD
 Tamil Nadu,TTNP,24416.0,exact,Tamil Telugu National Party,Not in TCPD
 Tamil Nadu,NIDP,24417.0,exact,Naam Indiar Party,Not in TCPD
@@ -561,14 +561,14 @@ Uttar Pradesh,NaLP,5625.0,exact,National Lokmat Party,Local Party
 Uttar Pradesh,BND,9440.0,exact,Bharatiya Naujawan Dal,Local Party
 Uttar Pradesh,SACP,24424.0,exact,Sabse Achchhi Party,Not in TCPD
 Uttar Pradesh,ABLP,24425.0,exact,Akhil Bhartiya Lok Dal,Not in TCPD
-Uttar Pradesh,RASHLSP,24426.0,exact,Rashtriya Lok Sarvadhikar  Party,Not in TCPD
+Uttar Pradesh,RASHLSP,24426.0,exact,Rashtriya Lok Sarvadhikar Party,Not in TCPD
 Uttar Pradesh,SBSPSP,24995.0,exact,Subhashwadi Bhartiya Samajwadi Party (Subhas Party),Not in TCPD
 Uttar Pradesh,RBJJP,17314.0,exact,Rashtriya Bharatiya Jan Jan Party,Not in TCPD
 Uttar Pradesh,RTORP,17316.0,exact,Right to Recall Party,Not in TCPD
 Uttar Pradesh,LOKJANP,17318.0,exact,Loktantrik Janshakti Party,Not in TCPD
 Uttar Pradesh,AIRCP,24427.0,exact,All Indian Rajiv Congress Party,Not in TCPD
 Uttar Pradesh,NABMUP,24428.0,exact,National Bhrashtachar Mukt Party,Not in TCPD
-Uttar Pradesh,BBPP,1357.0,exact,Bharatiya Bahujan Parivartan  Party,Not in TCPD
+Uttar Pradesh,BBPP,1357.0,exact,Bharatiya Bahujan Parivartan Party,Not in TCPD
 Uttar Pradesh,RPB,6373.0,exact,Rashtravadi Party (Bharat),Not in TCPD
 Uttar Pradesh,BHABHAPA,1890.0,exact,Bhartiya Bhaichara Party,Not in TCPD
 Uttar Pradesh,BARP,24429.0,exact,Bhartiya Anarakshit Party,Not in TCPD
@@ -580,7 +580,7 @@ Uttar Pradesh,AJPI,17584.0,exact,Aam Janta Party (India),Not in TCPD
 Uttar Pradesh,BMJP,24431.0,exact,Bharatiya Majdoor Janta Party,Not in TCPD
 Uttar Pradesh,JaSSP,4171.0,exact,Jan Seva Sahayak Party,Not in TCPD
 Uttar Pradesh,JAAP,24432.0,exact,Jan Adesh Akshuni Sena,Not in TCPD
-Uttar Pradesh,VPI,8516.0,exact,Voters Party  International,Not in TCPD
+Uttar Pradesh,VPI,8516.0,exact,Voters Party International,Not in TCPD
 Uttar Pradesh,BJNP,24944.0,exact,Bhartiya Jan Nayak Party,Not in TCPD
 Uttar Pradesh,BNavP,2003.0,exact,Bhartiya Navodaya Party,Not in TCPD
 Uttar Pradesh,JANADIP,4117.0,exact,Jan Adhikar Party,Not in TCPD
@@ -664,7 +664,7 @@ Uttar Pradesh,igp,16063.0,exact,Indian Gandhiyan Party,Local Party
 Uttar Pradesh,ADAL,956.0,exact,Apna Dal (Soneylal),Not in TCPD
 Uttar Pradesh,SatBP,18273.0,exact,Satya Bahumat Party,Not in TCPD
 Uttar Pradesh,BLRP,1990.0,exact,Bhartiya Lokmat Rashtrwadi Party,Not in TCPD
-Bihar,Janata Dal (United),11002.0,ambiguous,Janata Dal  (United),State-based Party
+Bihar,Janata Dal (United),11002.0,ambiguous,Janata Dal (United),State-based Party
 Bihar,Rashtriya Janata Dal,12103.0,alias,Rashtriya Janata Dal,State-based Party
 Bihar,Independent,10809.0,alias,Independent,Independents
 Bihar,Bahujan Samaj Party,16651.0,alias,Bahujan Samaj Party,State-based Party
@@ -729,7 +729,7 @@ Bihar,Aam Janta Party Rashtriya,40.0,exact,Aam Janta Party Rashtriya,Not in TCPD
 Bihar,Hindustan People's Party (Democratic),,unmapped,,Not in TCPD
 Bihar,Lok Sewa Dal,11533.0,exact,Lok Sewa Dal,Local Party
 Bihar,Bhartiya Dalit Party,1896.0,exact,Bhartiya Dalit Party,Not in TCPD
-Bihar,Communist Party of India (Marxist-Leninist) (Liberation),2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Bihar,Communist Party of India (Marxist-Leninist) (Liberation),2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Bihar,Sanyukt Kisan Vikas Party,,unmapped,,Not in TCPD
 Bihar,Al-Hind Party,458.0,exact,Al-Hind Party,Local Party
 Bihar,Rashtriya Sanatan Party,,unmapped,,Not in TCPD
@@ -747,7 +747,7 @@ Bihar,Adarsh Jankalyan Dal,,unmapped,,Not in TCPD
 Bihar,Hamara Sahara Party,,unmapped,,Not in TCPD
 Bihar,Bhartiya Manavta Party,,unmapped,,Not in TCPD
 Bihar,Bhartiya Kranti Vir Party,1981.0,exact,Bhartiya Kranti Vir Party,Not in TCPD
-Bihar,Voters Party International,8516.0,exact,Voters Party  International,Not in TCPD
+Bihar,Voters Party International,8516.0,exact,Voters Party International,Not in TCPD
 Bihar,Rashtrawadi Janlok Party (Satya),,unmapped,,Not in TCPD
 Bihar,Bhartiya Gandhiwadi Party,,unmapped,,Not in TCPD
 Bihar,Jan Janwadi Party,,unmapped,,Not in TCPD
@@ -781,7 +781,7 @@ Maharashtra,Maharashtra Vikas Aghadi,16249.0,exact,Maharashtra Vikas Aghadi,Loca
 Maharashtra,Socialist Party (India),8030.0,exact,Socialist Party (India),Local Party
 Maharashtra,Minorities Democratic Party,5421.0,exact,Minorities Democratic Party,Local Party
 Maharashtra,Republican Party of India (A),12285.0,exact,Republican Party of India (A),State-based Party
-Maharashtra,Bahujan Republican Socialist Party,1096.0,exact,Bahujan Republican  Socialist Party,Not in TCPD
+Maharashtra,Bahujan Republican Socialist Party,1096.0,exact,Bahujan Republican Socialist Party,Not in TCPD
 Maharashtra,Indian National League,3842.0,exact,Indian National League,Local Party
 Maharashtra,Jay Vidarbha Party,,unmapped,,Not in TCPD
 Maharashtra,Azad Adhikar Sena,,unmapped,,Not in TCPD
@@ -810,7 +810,7 @@ Maharashtra,Akhil Bharatiya Manavata Paksha,8736.0,exact,Akhil Bharatiya Manavat
 Maharashtra,Samnak Janta Party,,unmapped,,Not in TCPD
 Maharashtra,Communist Party of India (Marxist),14635.0,alias,COMMUNIST MARXIST PARTY OF INDIA,State-based Party
 Maharashtra,Bahujan Mukti Party,1074.0,exact,Bahujan Mukti Party,Local Party
-Maharashtra,Bahujan Samaj Party (Ambedkar),9654.0,exact,Bahujan Samaj Party  (Ambedkar),Local Party
+Maharashtra,Bahujan Samaj Party (Ambedkar),9654.0,exact,Bahujan Samaj Party (Ambedkar),Local Party
 Maharashtra,Rashtriya Kisan Bahujan Party,,unmapped,,Not in TCPD
 Maharashtra,Abhinav Bharat Janseva Paksh,,unmapped,,Not in TCPD
 Maharashtra,Bharatiya Praja Surajya Paksha,17432.0,exact,Bharatiya Praja Surajya Paksha,Not in TCPD
@@ -831,7 +831,7 @@ Maharashtra,Ambedkarist Republican Party,873.0,exact,Ambedkarist Republican Part
 Maharashtra,Dharmarajya Paksha,15984.0,exact,Dharmarajya Paksha,Local Party
 Maharashtra,Bhartiya Asmita Party,,unmapped,,Not in TCPD
 Maharashtra,Aam Janta Party (India),17584.0,exact,Aam Janta Party (India),Not in TCPD
-Maharashtra,Dalit Soshit Pichhara Varg Adhikar Dal,2893.0,exact,Dalit Soshit Pichhara Varg  Adhikar Dal,Not in TCPD
+Maharashtra,Dalit Soshit Pichhara Varg Adhikar Dal,2893.0,exact,Dalit Soshit Pichhara Varg Adhikar Dal,Not in TCPD
 Maharashtra,Indian Peoples Adhikar Party,,unmapped,,Not in TCPD
 Maharashtra,Bahujan Vikas Aaghadi,9677.0,exact,Bahujan Vikas Aaghadi,Local Party
 Maharashtra,Marxist Leninist Party of India (Red Flag),18073.0,exact,Marxist Leninist Party of India (Red Flag),Not in TCPD
@@ -896,7 +896,7 @@ Tamil Nadu,Dravida Munnetra Kazhagam,10192.0,alias,DRAVIDA MUMMETRA KAZHAGAM,Sta
 Tamil Nadu,All India Anna Dravida Munnetra Kazhagam,930.0,alias,All India Anna Dravida Munnetra Kazhagam,State-based Party
 Tamil Nadu,Thakkam Katchi,,unmapped,,Not in TCPD
 Tamil Nadu,Socialist Unity Centre Of India (COMMUNIST),,unmapped,,Not in TCPD
-Tamil Nadu,Republican Party of India (Sivaraj),12322.0,exact-old,Republican Party of India  (Sivaraj),Local Party
+Tamil Nadu,Republican Party of India (Sivaraj),12322.0,exact-old,Republican Party of India (Sivaraj),Local Party
 Tamil Nadu,Jebamani Janata,11062.0,exact,Jebamani Janata,Local Party
 Tamil Nadu,Mahathma Makkal Munnetra Kazhakam,,unmapped,,Not in TCPD
 Tamil Nadu,Aravor Munnetra Kazhagam,,unmapped,,Not in TCPD
@@ -908,7 +908,7 @@ Tamil Nadu,Tipu Sultan Party,,unmapped,,Not in TCPD
 Tamil Nadu,Anti Corruption Dynamic Party,24932.0,exact,Anti Corruption Dynamic Party,Not in TCPD
 Tamil Nadu,Tamilnadu Makkal Nalvazhvu Periyakkam,,unmapped,,Not in TCPD
 Tamil Nadu,Chennai Youth Party,,unmapped,,Not in TCPD
-Tamil Nadu,Tamil Maanila Congress (Moopanar),8247.0,exact,Tamil Maanila Congress  (Moopanar),Local Party
+Tamil Nadu,Tamil Maanila Congress (Moopanar),8247.0,exact,Tamil Maanila Congress (Moopanar),Local Party
 Tamil Nadu,Samaniya Makkal Nala Katchi,,unmapped,,Not in TCPD
 Tamil Nadu,Pattali Makkal Katchi,11891.0,alias,Pattali Makkal Katchi,State-based Party
 Tamil Nadu,Tamil Manila Murpokku Dravida Kazhagam,,unmapped,,Not in TCPD
@@ -1009,7 +1009,7 @@ Uttar Pradesh,Adarsh Samaj Party,85.0,exact,Adarsh Samaj Party,Local Party
 Uttar Pradesh,"Proutist Bloc, India",6211.0,exact,Proutist Bloc India,Local Party
 Uttar Pradesh,Rashtriya Jansanchar Dal,,unmapped,,Not in TCPD
 Uttar Pradesh,Parivartan Samaj Party,16964.0,exact,Parivartan Samaj Party,Local Party
-Uttar Pradesh,Voters Party International,8516.0,exact,Voters Party  International,Not in TCPD
+Uttar Pradesh,Voters Party International,8516.0,exact,Voters Party International,Not in TCPD
 Uttar Pradesh,Bhartiya Shakti Chetna Party,2047.0,exact,Bhartiya Shakti Chetna Party,Local Party
 Uttar Pradesh,Sarva Samaj Janata Party,,unmapped,,Not in TCPD
 Uttar Pradesh,Vanchitsamaj Insaaf Party,8480.0,exact,Vanchitsamaj Insaaf Party,Local Party
@@ -1196,7 +1196,7 @@ Bihar,Sanyukt Vikas Party,7674.0,exact,Sanyukt Vikas Party,Not in TCPD
 Bihar,Rashtriya Sahyog Party,24985.0,exact,Rashtriya Sahyog Party,Not in TCPD
 Bihar,Hind Samrajya Party,,unmapped,,Not in TCPD
 Bihar,Jammu & Kashmir National Panthers Party,4079.0,exact,Jammu & Kashmir National Panthers Party,Local Party
-Bihar,Lok Chetna Dal,24967.0,exact,Lok  Chetna  Dal,Not in TCPD
+Bihar,Lok Chetna Dal,24967.0,exact,Lok Chetna Dal,Not in TCPD
 Bihar,Rashtriya Pragati Party,12352.0,exact,Rashtriya Pragati Party,Local Party
 Bihar,Sapaks Party,18322.0,exact,Sapaks Party,Not in TCPD
 Bihar,Janata Congress,4196.0,exact,Janata Congress,Not in TCPD
@@ -1216,7 +1216,7 @@ Maharashtra,Bhartiya Tribal Party,2055.0,exact,Bhartiya Tribal Party,Not in TCPD
 Maharashtra,"Proutist Bloc, India",6211.0,exact,Proutist Bloc India,Local Party
 Maharashtra,Loksangram,11491.0,exact,Loksangram,Local Party
 Maharashtra,Akhand Hind Party,139.0,exact,Akhand Hind Party,Not in TCPD
-Maharashtra,Rashtriya Samajwadi Party (Secular),12427.0,exact,Rashtriya Samajwadi Party  (Secular),Local Party
+Maharashtra,Rashtriya Samajwadi Party (Secular),12427.0,exact,Rashtriya Samajwadi Party (Secular),Local Party
 Maharashtra,Hindusthan Nirman Dal,3288.0,fuzzy,Hindustan Nirman Dal,Local Party
 Maharashtra,Rashtriya Janshakti Party (Secular),18083.0,exact,Rashtriya Janshakti Party (Secular),Not in TCPD
 Maharashtra,Akhil Bharatiya Sena,8690.0,exact,Akhil Bharatiya Sena,Local Party
@@ -1321,7 +1321,7 @@ Uttar Pradesh,National Lokmat Party,5625.0,exact,National Lokmat Party,Local Par
 Uttar Pradesh,Akhil Bhartiya Lok Dal,24425.0,exact,Akhil Bhartiya Lok Dal,Not in TCPD
 Uttar Pradesh,Bhartiya Nojawan Dal,,unmapped,,Not in TCPD
 Uttar Pradesh,Bhartiya Naujawan Inklav Party,1746.0,fuzzy,Bharatiya Naujawan Inklav party,Local Party
-Uttar Pradesh,Rashtriya Janadhikar Party,12088.0,exact,Rashtriya Jan  Adhikar Party,Local Party
+Uttar Pradesh,Rashtriya Janadhikar Party,12088.0,exact,Rashtriya Jan Adhikar Party,Local Party
 Uttar Pradesh,Rashtriya Kranti Party,6626.0,exact,Rashtriya Kranti Party,Local Party
 Uttar Pradesh,Bhartiya Jan Nayak Party,24944.0,exact,Bhartiya Jan Nayak Party,Not in TCPD
 Uttar Pradesh,Bharatiya Samta Samaj Party,9671.0,exact,Bharatiya Samta Samaj Party,Local Party
@@ -1340,7 +1340,7 @@ Uttar Pradesh,All India Minorities Front,726.0,exact,All India Minorities Front,
 Uttar Pradesh,Bhartiya Kisan Party,1979.0,exact,Bhartiya Kisan Party,Not in TCPD
 Uttar Pradesh,Jansatta Party,11332.0,exact,Jan Satta Party,Local Party
 Uttar Pradesh,National Bhrashtachar Mukt Party,24428.0,exact,National Bhrashtachar Mukt Party,Not in TCPD
-Uttar Pradesh,Bharatiya Bahujan Parivartan Party,1357.0,exact,Bharatiya Bahujan Parivartan  Party,Not in TCPD
+Uttar Pradesh,Bharatiya Bahujan Parivartan Party,1357.0,exact,Bharatiya Bahujan Parivartan Party,Not in TCPD
 Uttar Pradesh,Atulya Bharat Party,992.0,exact,Atulya Bharat Party,Local Party
 Uttar Pradesh,Kanshiram Bahujan Dal,24442.0,exact,Kanshiram Bahujan Dal,Not in TCPD
 Uttar Pradesh,Bhartiya Manav Samaj Party,24381.0,exact,Bhartiya Manav Samaj Party,Not in TCPD
@@ -1360,7 +1360,7 @@ Uttar Pradesh,Mazdoor Dalit Kisaan Mahila Gareeb Party (Hin,,unmapped,,Not in TC
 Uttar Pradesh,Janhit Bharat Party,24449.0,exact,Janhit Bharat Party,Not in TCPD
 Uttar Pradesh,Subhashwadi Bhartiya Samajwadi Party,,unmapped,,Not in TCPD
 Uttar Pradesh,All Indian Rajiv Congress Party,24427.0,exact,All Indian Rajiv Congress Party,Not in TCPD
-Uttar Pradesh,Rashtriya Lok Sarvadhikar Party,24426.0,exact,Rashtriya Lok Sarvadhikar  Party,Not in TCPD
+Uttar Pradesh,Rashtriya Lok Sarvadhikar Party,24426.0,exact,Rashtriya Lok Sarvadhikar Party,Not in TCPD
 Uttar Pradesh,Nationalist Janshakti Party,24525.0,exact,Nationalist Janshakti Party,Not in TCPD
 Uttar Pradesh,Rashtriya Krantikari Samajwadi Party,12157.0,exact,Rashtriya Krantikari Samajwadi Party,Local Party
 Uttar Pradesh,Proutist Sarva Samaj,6232.0,exact,Proutist Sarva Samaj,Local Party
@@ -1377,7 +1377,7 @@ Uttar Pradesh,Kisan Raksha Party,24447.0,exact,"Kisan Raksha Party,",Not in TCPD
 Uttar Pradesh,Bundelkhand Kranti Dal,2117.0,exact,Bundelkhand Kranti Dal,Not in TCPD
 Uttar Pradesh,Bharatrashtra Democratic Party,1866.0,exact,Bharatrashtra Democratic Party,Not in TCPD
 Uttar Pradesh,Samrat Ashok Sena Party,24453.0,exact,Samrat Ashok Sena Party,Not in TCPD
-Uttar Pradesh,Rashtriya Jan Adhikar Party,12088.0,exact,Rashtriya Jan  Adhikar Party,Local Party
+Uttar Pradesh,Rashtriya Jan Adhikar Party,12088.0,exact,Rashtriya Jan Adhikar Party,Local Party
 Uttar Pradesh,Bhartiya Vanchitsamaj Party,1862.0,fuzzy,Bharatiya Vanchitsamaj Party,Local Party
 Uttar Pradesh,Rashtriya Janmat Party,24450.0,exact,Rashtriya Janmat Party,Not in TCPD
 Uttar Pradesh,Saaf Party,24440.0,exact,Saaf Party,Not in TCPD
@@ -1427,7 +1427,7 @@ Uttar Pradesh,Rashtriya Ambedkar Dal,6416.0,exact,Rashtriya Ambedkar Dal,Local P
 Uttar Pradesh,Bharatiya Rashtravadi Samanta Party,1777.0,exact,Bharatiya Rashtravadi Samanta Party,Not in TCPD
 Bihar,Bharat Vikas Morcha,9678.0,exact,Bharat Vikas Morcha,Local Party
 Bihar,Lok Dal,4996.0,exact,Lok Dal,National Party
-Bihar,CPI(ML)L,2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Bihar,CPI(ML)L,2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Bihar,Samajwadi Janata Party (Rashtriya),7408.0,fuzzy,Samajwadi Janata Party (Rashitriya),Local Party
 Bihar,JAP(L),18226.0,exact,Jan Adhikar Party (Loktantrik),Not in TCPD
 Bihar,Samajwadi Forward Bloc,7333.0,exact,Samajwadi Forward Bloc,Not in TCPD
@@ -1490,10 +1490,10 @@ Tamil Nadu,Tamil Nadu Makkal Congress,8252.0,exact,Tamil Nadu Makkal Congress,Lo
 Tamil Nadu,Ambedkar Peoples Movement,850.0,exact,Ambedkar People's Movement,Local Party
 Tamil Nadu,National Organisation Congress,11811.0,exact,National Organisation Congress,Local Party
 Tamil Nadu,Viduthalal Chiruthaigal Katchi,,unmapped,,Not in TCPD
-Tamil Nadu,CPI(ML)L,2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Tamil Nadu,CPI(ML)L,2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Tamil Nadu,Union Party of India,16623.0,exact,Union Party of India,Local Party
 Tamil Nadu,United Communist Party of India,8360.0,exact,United Communist Party of India,Local Party
-Tamil Nadu,Jharkhand Mukti Morcha (Ulgulan),11174.0,exact,Jharkhand Mukti Morcha  (Ulgulan),Local Party
+Tamil Nadu,Jharkhand Mukti Morcha (Ulgulan),11174.0,exact,Jharkhand Mukti Morcha (Ulgulan),Local Party
 Tamil Nadu,Indians Victory Party,3959.0,exact,Indians Victory Party,Local Party
 Tamil Nadu,Desiya Forward Bloc,15981.0,exact,Desiya Forward Bloc,Local Party
 Tamil Nadu,Samata Party,7575.0,exact,Samata Party,National Party
@@ -1509,7 +1509,7 @@ Uttar Pradesh,Sarva Samaj Kalyan Party,16543.0,exact,Sarva Samaj Kalyan Party,Lo
 Uttar Pradesh,Rashtriya Sawarn Dal,12382.0,exact,Rashtriya Sawarn Dal,Local Party
 Uttar Pradesh,Bharatiya Kisan Sena Loktantrik,15837.0,exact,Bharatiya Kisan Sena Loktantrik,Local Party
 Uttar Pradesh,Qaumi Ekta Dal,6306.0,exact,Qaumi Ekta Dal,Local Party
-Uttar Pradesh,CPI(ML)L,2472.0,ambiguous,Communist Party of India  (Marxist-Leninist)  (Liberation),Local Party
+Uttar Pradesh,CPI(ML)L,2472.0,ambiguous,Communist Party of India (Marxist-Leninist) (Liberation),Local Party
 Uttar Pradesh,Samyak Parivartan Party,16962.0,exact,Samyak Parivartan Party,Local Party
 Uttar Pradesh,Adarsh Rashtriya Vikas Party,84.0,exact,Adarsh Rashtriya Vikas Party,Local Party
 Uttar Pradesh,Rashtriya Manav samman Party,6731.0,exact,Rashtriya Manav samman Party,Local Party
@@ -1712,8 +1712,8 @@ Karnataka,Hand,,unmapped,,Not in TCPD
 Karnataka,Lotus,,unmapped,,Not in TCPD
 Karnataka,,,unmapped,,Not in TCPD
 Karnataka,Bhartiya Janta Party,,unmapped,,Not in TCPD
-Karnataka,Janta Dal (Secular),10979.0,fuzzy,Janata Dal  (Secular),State-based Party
-Karnataka,Janta Dal (United),11002.0,fuzzy,Janata Dal  (United),State-based Party
+Karnataka,Janta Dal (Secular),10979.0,fuzzy,Janata Dal (Secular),State-based Party
+Karnataka,Janta Dal (United),11002.0,fuzzy,Janata Dal (United),State-based Party
 Maharashtra,BPSP,9466.0,exact-old,Bihar People?s Party,Local Party
 Maharashtra,VMP,,unmapped,,Not in TCPD
 Maharashtra,BMP,1316.0,exact,Bharat Mangalam Parishad,Local Party
@@ -1731,7 +1731,7 @@ Rajasthan,IND,10809.0,exact,Independent,Independents
 Rajasthan,RPI(A),12285.0,exact,Republican Party of India (A),State-based Party
 Rajasthan,IVD,3975.0,exact,Inqalab Vikas Dal,Local Party
 Rajasthan,HSS,3279.0,exact,Hindustan Shakti Sena,Not in TCPD
-Rajasthan,DSPVAD,2893.0,exact,Dalit Soshit Pichhara Varg  Adhikar Dal,Not in TCPD
+Rajasthan,DSPVAD,2893.0,exact,Dalit Soshit Pichhara Varg Adhikar Dal,Not in TCPD
 Rajasthan,ABAP,390.0,exact,Akhil Bhartiya Aamjan Party,Local Party
 Uttar Pradesh,JHJBP,,unmapped,,Not in TCPD
 Uttar Pradesh,,,unmapped,,Not in TCPD
