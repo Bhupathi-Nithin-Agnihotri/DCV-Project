@@ -1,0 +1,45 @@
+column,dtype,unit,source,allowed_range,description
+OC_File,str,name,derived,"opencity_results_clean, opencity_byelections_2014_onwards",Which OpenCity file the row comes from
+OC_Row,Int64,row number,derived,0 to 10377,"Row number in that OpenCity file, to trace the row back"
+MN_Row,Int64,row number,derived,0 to 10394; empty if no MyNeta match,"Row number in myneta_candidates_clean, to trace the row back"
+State,str,name,OpenCity,"Bihar, Maharashtra, Tamil Nadu, Uttar Pradesh",State of the seat
+Constituency_No,Int64,number,OpenCity,1 to 80,"Seat number within the state; with State, the seat key across years"
+Constituency_Name,str,name,OpenCity,one spelling per seat,"Seat name, for reading only"
+Constituency_Type,str,category,OpenCity (TCPD),"GEN, SC, ST",Reserved status of the seat
+Term,Int64,year,derived,"2014, 2019, 2024","General election the row belongs to; by-elections go to the term they fall in (up to 2018 = 2014, after = 2019)"
+Election_Year,Int64,year,OpenCity,"2014, 2018, 2019, 2020, 2021, 2024",Year the vote took place
+Is_ByElection,bool,flag,derived,True / False,Row is from a by-election
+Bye_Year,Int64,year,OpenCity by-elections,2014 to 2021; empty for general elections,Year of the by-election
+Person_ID,Int64,id,02 OpenCity prep,empty for by-election rows,"Same number for the same person across 2014, 2019, 2024"
+Candidate,str,name,OpenCity,non-empty,Candidate name as in OpenCity (cleaned)
+Candidate_Key,str,text,02 OpenCity prep,empty for by-election rows,"Name words sorted A to Z, used for matching"
+Namesake_In_Seat,boolean,flag,02 OpenCity prep,True / False; empty for by-election rows,Another candidate in the same seat and election has the same name
+Sex,str,category,OpenCity (TCPD),"M, F, O; empty for 2024",Sex of the candidate; by-election rows use MALE/male/FEMALE/female spellings
+Incumbent,boolean,flag,OpenCity (TCPD); 2024 derived,True / False,Sitting MP; 2024 = won in 2019
+Party,str,code,OpenCity,non-empty,"Party short code (BJP, INC...); small 2024 parties are OTHER"
+Party_Full,str,name,OpenCity,non-empty,Party name as published
+Party_ID,Int64,id,TCPD-PPI,empty if not in TCPD,TCPD party id that Party_Full was matched to
+Party_Canonical,str,name,TCPD-PPI,empty if not in TCPD,Party name as TCPD writes it
+Party_Type,str,category,TCPD-PPI,"National Party, State-based Party, Local Party, Independents, Not in TCPD",Type of party
+Party_Method,str,category,derived,"exact, alias, ambiguous, fuzzy, exact-old, unmapped",How the party was matched to TCPD
+Party_Group,str,category,02 OpenCity prep,"Main party, Independent, Other party; empty for by-election rows",Grouping used in the dashboard
+Position,Int64,rank,"OpenCity, recomputed without NOTA",1 to 54,Rank in the seat by votes
+Winner,bool,flag,derived,True / False,Won the seat (Position = 1)
+Votes,Int64,votes,OpenCity,> 0,Votes received
+Vote_Share_Percentage,float64,percent,OpenCity,0 to 100,Share of the seat's valid votes
+Margin,Int64,votes,derived,> 0,Votes between 1st and 2nd in the seat
+Seat_Valid_Votes,Int64,votes,derived / OpenCity,> 0,Total valid votes in the seat (NOTA included)
+MN_Candidate,str,name,MyNeta,empty if no match,Candidate name as on MyNeta
+MN_Party,str,name,MyNeta,empty if no match,Party as on MyNeta
+MN_Education,str,category,MyNeta,"Illiterate ... Doctorate, Others; empty if no match or not given",Highest education declared
+MN_Age,Int64,years,MyNeta,25 to 93; empty if no match or unknown,Age declared in the affidavit
+MN_Criminal_Cases,Int64,count,MyNeta,>= 0; empty if no match,Criminal cases declared
+Assets_Rs,float64,rupees,MyNeta,>= 0; empty if no match,Total assets declared (Nil = 0)
+Liabilities_Rs,float64,rupees,MyNeta,>= 0; empty if no match,Total liabilities declared
+Assets_Status,str,category,02b MyNeta prep,"ok, nil, no_approx",Check of Assets_Rs against MyNeta's rounded figure
+Liabilities_Status,str,category,02b MyNeta prep,"ok, no_approx",Check of Liabilities_Rs against the rounded figure
+Assets_Nil,boolean,flag,derived,True / False; empty if no match,Assets were declared as Nil
+Has_MyNeta,bool,flag,derived,True / False,Row was matched to a MyNeta row
+Has_Assets,bool,flag,derived,True / False,Assets_Rs is filled
+Match_Rule,Int64,category,derived,1 to 7; empty if no match,Which matching rule paired the row (1 = same name ... 7 = winner on both sides)
+Match_Score,float64,ratio,derived,0 to 1; empty if no match,Name similarity of the matched pair
