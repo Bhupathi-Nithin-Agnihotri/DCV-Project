@@ -10,7 +10,7 @@ Candidate_Key,str,name,derived,non-empty,"Words of the name in alphabetical orde
 Namesake_In_Seat,bool,flag,derived,True / False,Another candidate in the same seat and year has the same Candidate_Key
 Party,str,code,OpenCity; 2024 mapped by hand,"short code, OTHER for small 2024 parties",Party code
 Party_Full,str,name,OpenCity,non-empty,"Party name as published (code in 2014 and 2019, full name in 2024)"
-Party_Group,str,category,derived,"Main party, Independent, Other party","Main parties: BJP, INC, SP, BSP, RJD, JD(U), DMK, ADMK, SHS, NCP"
+Party_Group,str,category,derived,"Main party, Independent, Other party","Main parties: BJP, INC, SP, BSP, RJD, JD(U), DMK, ADMK, SHS, SHS(UBT), NCP, NCP(SP)"
 Sex,str,category,OpenCity (TCPD); missing for 2024,"M, F, O, missing",Sex of candidate
 Incumbent,boolean,flag,OpenCity (TCPD); 2024 derived,True / False,Candidate was the sitting MP
 Incumbent_Source,str,category,derived,"published, derived",Where the Incumbent value comes from
