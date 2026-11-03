@@ -1,0 +1,20 @@
+year,step,count_before,count_after,rows_affected,note
+all,state: extra spaces and line breaks,0,0,0,"cells with a line break, nbsp or double space"
+all,const: extra spaces and line breaks,0,0,0,"cells with a line break, nbsp or double space"
+all,candidate: extra spaces and line breaks,0,0,0,"cells with a line break, nbsp or double space"
+all,party: extra spaces and line breaks,0,0,0,"cells with a line break, nbsp or double space"
+all,education: extra spaces and line breaks,0,0,0,"cells with a line break, nbsp or double space"
+all,total_assets: extra spaces and line breaks,10308,0,10308,"cells with a line break, nbsp or double space"
+all,liabilities: extra spaces and line breaks,8578,0,8578,"cells with a line break, nbsp or double space"
+all,"party: same name, different spelling",771,760,11,distinct party names
+all,exact duplicate rows,0,0,0,rows
+all,"duplicate keys (year, seat, by-election, sno)",0,0,0,rows; one row per candidate per election
+all,total_assets: text to rupees,10395,0,10395,cells stored as text
+all,total_assets: ocr spaces inside the number,16,0,16,cells; the old parser read these wrongly
+all,liabilities: text to rupees,10395,0,10395,cells stored as text
+all,liabilities: ocr spaces inside the number,3,0,3,cells; the old parser read these wrongly
+all,age: 0 or below 25 set to missing,41,0,41,rows with an impossible age
+all,education: 'Not Given' set to missing,81,0,81,rows with 'Not Given'
+all,"outliers flagged (assets, IQR on log10)",85,0,85,"rows flagged; all real values, none changed"
+all,"outliers flagged (criminal cases, MAD on log10)",2,0,2,"rows flagged; real counts, none changed"
+all,"outliers flagged (age, IQR)",18,0,18,"rows flagged; real ages, none changed"

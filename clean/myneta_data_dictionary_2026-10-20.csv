@@ -1,0 +1,24 @@
+column,dtype,unit,source,allowed_range,description
+year,int,year,MyNeta,"2014, 2019, 2024",General election the row belongs to (by-elections carry the year of the general election before them)
+state,str,name,MyNeta,"BIHAR, MAHARASHTRA, TAMIL NADU, UTTAR PRADESH","State of the constituency, upper case"
+const,str,name,MyNeta,non-empty,Constituency name as on MyNeta
+sno,int,number,MyNeta,>= 1,Row number on the MyNeta constituency page
+candidate,str,name,MyNeta,non-empty,Candidate name as on MyNeta
+party,str,name,MyNeta; spellings unified (Step 2),"non-empty, IND = independent",Party of the candidate
+is_winner,bool,flag,MyNeta,True / False,Candidate won this election
+is_byelection,bool,flag,MyNeta,True / False,Row is from a by-election
+election_date,date,date,MyNeta,2014 to 2024; empty for by-elections,Polling date of the general election
+bye_election_date,date,date,MyNeta,2014 to 2024; empty for general elections,Polling date of the by-election
+age,Int64,years,MyNeta affidavit,"25 to 93, missing for 41 rows",Age declared in the affidavit; 0 and under 25 set to missing
+education,str,category,MyNeta affidavit,"Illiterate ... Doctorate, Others, missing",Highest education declared; 'Not Given' set to missing
+criminal_cases,int,count,MyNeta affidavit,>= 0,Number of criminal cases declared
+total_assets,str,text,MyNeta (text or OCR of image),'Rs ... ~ ...' or 'Nil',"Total assets as printed, spaces tidied"
+assets_rs,int,rupees,derived from total_assets,>= 0,Total assets in rupees (Nil = 0)
+assets_status,str,category,derived,"ok, nil, no_approx",Check of assets_rs against the rounded value MyNeta prints
+asset_source,str,category,derived,"text, image (ocr)",Whether assets and liabilities came as text or were read from an image
+liabilities,str,text,MyNeta (text or OCR of image),'Rs ... ~ ...',"Total liabilities as printed, spaces tidied"
+liabilities_rs,int,rupees,derived from liabilities,>= 0,Total liabilities in rupees
+liabilities_status,str,category,derived,"ok, no_approx",Check of liabilities_rs against the rounded value
+namesake_in_seat,bool,flag,derived,True / False,Another candidate in the same seat and election has the same name
+assets_outlier,str,category,derived (IQR on log10 assets),"none, low, high",Asset outlier flag; all diagnosed as real
+criminal_cases_outlier,bool,flag,derived (MAD on log10 cases),True / False,Criminal case outlier flag; diagnosed as real
