@@ -17,4 +17,3 @@ All screenshots taken 17-10-2026. Sources: **MyNeta** (scraped) and **ECI 2024 r
 ## Overall
 - **OpenCity / ECI:** fine to use. Obey the 10 s crawl delay, cite the source.
 - **MyNeta:** robots.txt allows it, but ADR's terms require written consent for scraping. Scrape only after consent or instructor OK. Until then, test on one page per year.
-- **Row counts to match after scraping:** 2014 = 8,201 · 2019 = 7,945 · 2024 = 8,338.
