@@ -1,10 +1,8 @@
-You can use this as reference but please dont copy the same code and say its urs T-T
-
-# DCV-Project
+# DCV-Project - Lok Sabha Assets
 
 ### Chosen Project:
 
-Assets of Lok Sabha candidates across three elections.
+Assets of Lok Sabha candidates across three elections. (SLice: Tamil Nadu, Maharashtra, Uttar Pradesh, Bihar)
 
 ### Question:
 
@@ -15,14 +13,11 @@ How did declared assets change for candidates who contested in 2014, 2019 and 20
 MyNeta affidavit summaries 2014, 2019, 2024  
 https://myneta.info/LokSabha2024   
 Lok Sabha 2024 results by constituency (ECI report via OpenCity)  
-https://data.opencity.in/dataset/parliamentary-elections-2024-results
-
-TCPD
-
+https://data.opencity.in/dataset/parliamentary-elections-2024-results \
+TCPD\
 https://github.com/tcpd/ppi
 
 ### Collaborators:
 
 V. Pravas - DA25B051  
 B. Nithin - DA25B006
-
